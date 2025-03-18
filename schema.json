@@ -1,0 +1,15 @@
+{
+    "BigQuery Schema": [
+      {"name": "StateName", "type": "STRING"},
+      {"name": "DistrictName", "type": "STRING"},
+      {"name": "Commodity", "type": "STRING"},
+      {"name": "MarketName", "type": "STRING"},
+      {"name": "Variety", "type": "STRING"},
+      {"name": "Group", "type": "STRING"},
+      {"name": "ArrivalsTonnes", "type": "FLOAT"},
+      {"name": "MinPriceRsPerQuintal", "type": "FLOAT"},
+      {"name": "MaxPriceRsPerQuintal", "type": "FLOAT"},
+      {"name": "ModalPriceRsPerQuintal", "type": "FLOAT"},
+      {"name": "ReportedDate", "type": "DATE"}
+    ]
+  }
