@@ -1,0 +1,19 @@
+State Name,District Name,Commodity,Market Name,Variety,Group,Arrivals Tonnes,Min Price Rs_per_Quintal,Max Price Rs_per_Quintal,Modal Price Rs_per_Quintal,Reported Date
+Goa,North Goa,Grapes,Mapusa,Green,Fruits,1.55,3000.0,3000.0,3000.0,2019-01-19
+Goa,North Goa,Mousambi(Sweet Lime),Mapusa,Mousambi,Fruits,3.0,3000.0,3000.0,3000.0,2019-01-19
+Goa,North Goa,Orange,Mapusa,Orange,Fruits,7.3,3000.0,3000.0,3000.0,2019-01-19
+Goa,North Goa,Rose(Loose),Mapusa,Rose(Loose),Flowers,0.4,10000.0,12000.0,11000.0,2019-01-19
+Goa,North Goa,Apple,Mapusa,Apple,Fruits,12.48,130000.0,130000.0,130000.0,2019-01-19
+Goa,South Goa,Arecanut(Betelnut/Supari),Canacona,Red,Drug and Narcotics,0.13,18000.0,21000.0,18000.0,2019-01-19
+Goa,South Goa,Arecanut(Betelnut/Supari),Canacona,White,Drug and Narcotics,0.13,19000.0,22000.0,19000.0,2019-01-19
+Goa,South Goa,Arecanut(Betelnut/Supari),Canacona,Supari,Drug and Narcotics,0.13,21000.0,24000.0,21000.0,2019-01-19
+Goa,South Goa,Arecanut(Betelnut/Supari),Curchorem,Red,Drug and Narcotics,0.7,18000.0,21000.0,19500.0,2019-01-19
+Goa,South Goa,Arecanut(Betelnut/Supari),Curchorem,White,Drug and Narcotics,0.7,19000.0,22000.0,20500.0,2019-01-19
+Goa,South Goa,Arecanut(Betelnut/Supari),Curchorem,Supari,Drug and Narcotics,0.7,21000.0,24000.0,22500.0,2019-01-19
+Goa,North Goa,Arecanut(Betelnut/Supari),Ponda,Red,Drug and Narcotics,3.67,18000.0,21000.0,18000.0,2019-01-19
+Goa,North Goa,Arecanut(Betelnut/Supari),Ponda,White,Drug and Narcotics,3.67,19000.0,22000.0,19000.0,2019-01-19
+Goa,North Goa,Arecanut(Betelnut/Supari),Ponda,Supari,Drug and Narcotics,3.67,21000.0,24000.0,21000.0,2019-01-19
+Goa,North Goa,Arecanut(Betelnut/Supari),Valpol,Red,Drug and Narcotics,1.43,18000.0,21000.0,19500.0,2019-01-19
+Goa,North Goa,Arecanut(Betelnut/Supari),Valpol,White,Drug and Narcotics,1.43,19000.0,22000.0,20500.0,2019-01-19
+Goa,North Goa,Arecanut(Betelnut/Supari),Valpol,Supari,Drug and Narcotics,1.43,21000.0,24000.0,22500.0,2019-01-19
+Goa,North Goa,Banana,Mapusa,Other,Fruits,8.0,450.0,550.0,500.0,2019-01-19

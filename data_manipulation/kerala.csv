@@ -1,0 +1,961 @@
+State Name,District Name,Commodity,Market Name,Variety,Group,Arrivals Tonnes,Min Price Rs_per_Quintal,Max Price Rs_per_Quintal,Modal Price Rs_per_Quintal,Reported Date
+Kerala,Ernakulam,Drumstick,Aluva,Drumstick,Vegetables,0.5,11000.0,14000.0,12500.0,2019-01-19
+Kerala,Thiruvananthapuram,Drumstick,Aralamoodu,Drumstick,Vegetables,0.8,12000.0,16000.0,16000.0,2019-01-19
+Kerala,Thiruvananthapuram,Drumstick,Chala,Other,Vegetables,3.0,13700.0,13756.0,13728.0,2019-01-19
+Kerala,Thirssur,Drumstick,Chelakkara,Other,Vegetables,0.18,2800.0,3000.0,2900.0,2019-01-19
+Kerala,Ernakulam,Drumstick,Ernakulam,Drumstick,Vegetables,0.35,9200.0,9500.0,9500.0,2019-01-19
+Kerala,Kottayam,Drumstick,Ettumanoor,Drumstick,Vegetables,0.6,9000.0,9500.0,9200.0,2019-01-19
+Kerala,Alappuzha,Drumstick,Harippad,Other,Vegetables,0.5,3500.0,4000.0,4000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Drumstick,Kallachi,Drumstick,Vegetables,0.4,9800.0,10200.0,10000.0,2019-01-19
+Kerala,Kasargod,Drumstick,Kanjangadu,Drumstick,Vegetables,0.45,10000.0,11000.0,10500.0,2019-01-19
+Kerala,Kottayam,Drumstick,Kanjirappally,Drumstick,Vegetables,1.0,9000.0,10000.0,9800.0,2019-01-19
+Kerala,Alappuzha,Drumstick,Kayamkulam,Other,Vegetables,1.0,9700.0,9900.0,9800.0,2019-01-19
+Kerala,Malappuram,Drumstick,Kondotty,Other,Vegetables,0.25,8000.0,8200.0,8100.0,2019-01-19
+Kerala,Ernakulam,Drumstick,Kothamangalam,Other,Vegetables,1.0,10000.0,11000.0,10500.0,2019-01-19
+Kerala,Malappuram,Drumstick,Kottakkal,Other,Vegetables,0.9,10100.0,10200.0,10150.0,2019-01-19
+Kerala,Alappuzha,Drumstick,Madhavapuram,Other,Vegetables,2.5,10000.0,12500.0,12000.0,2019-01-19
+Kerala,Malappuram,Drumstick,Manjeri,Other,Vegetables,5.0,9900.0,10000.0,9950.0,2019-01-19
+Kerala,Kasargod,Drumstick,Manjeswaram,Drumstick,Vegetables,1.0,7000.0,8000.0,7500.0,2019-01-19
+Kerala,Ernakulam,Drumstick,Moovattupuzha,Drumstick,Vegetables,0.65,10400.0,10900.0,10650.0,2019-01-19
+Kerala,Kozhikode(Calicut),Drumstick,Mukkom,Drumstick,Vegetables,0.5,4800.0,5200.0,5000.0,2019-01-19
+Kerala,Kasargod,Drumstick,Neeleswaram,Other,Vegetables,0.3,12500.0,13500.0,13000.0,2019-01-19
+Kerala,Thiruvananthapuram,Drumstick,Neyyatinkara,Drumstick,Vegetables,0.2,7300.0,7500.0,7400.0,2019-01-19
+Kerala,Palakad,Drumstick,Palakkad,Drumstick,Vegetables,0.25,10000.0,11000.0,10600.0,2019-01-19
+Kerala,Kozhikode(Calicut),Drumstick,Palayam,Other,Vegetables,5.0,9900.0,10100.0,10000.0,2019-01-19
+Kerala,Kottayam,Drumstick,Pampady,Other,Vegetables,1.0,11000.0,11400.0,11200.0,2019-01-19
+Kerala,Malappuram,Drumstick,Parappanangadi,Other,Vegetables,0.3,4000.0,4250.0,4150.0,2019-01-19
+Kerala,Palakad,Drumstick,Pattambi,Other,Vegetables,0.2,11000.0,13000.0,12000.0,2019-01-19
+Kerala,Malappuram,Drumstick,Perinthalmanna,Drumstick,Vegetables,2.1,4800.0,5200.0,5000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Drumstick,Quilandy,Other,Vegetables,0.3,10500.0,11000.0,10800.0,2019-01-19
+Kerala,Kottayam,Drumstick,Thalayolaparambu,Drumstick,Vegetables,0.2,10000.0,10600.0,10300.0,2019-01-19
+Kerala,Kozhikode(Calicut),Drumstick,Thamarassery,Other,Vegetables,0.03,10500.0,13000.0,11500.0,2019-01-19
+Kerala,Malappuram,Drumstick,Thirurrangadi,Other,Vegetables,0.3,4800.0,5100.0,5000.0,2019-01-19
+Kerala,Idukki,Drumstick,Thodupuzha,Other,Vegetables,0.6,9000.0,10000.0,10000.0,2019-01-19
+Kerala,Ernakulam,Drumstick,Thrippunithura,Drumstick,Vegetables,0.5,11000.0,12000.0,11500.0,2019-01-19
+Kerala,Thirssur,Drumstick,Thrissur,Drumstick,Vegetables,5.0,11500.0,12000.0,11800.0,2019-01-19
+Kerala,Palakad,Drumstick,Vadakkenchery,Other,Vegetables,0.17,7500.0,8000.0,7750.0,2019-01-19
+Kerala,Alappuzha,Dry Chillies,Alappuzha,Other,Spices,2.0,10300.0,10500.0,10400.0,2019-01-19
+Kerala,Thirssur,Duster Beans,Chelakkara,Other,Vegetables,0.16,3800.0,4000.0,3900.0,2019-01-19
+Kerala,Thiruvananthapuram,Duster Beans,Neyyatinkara,Other,Vegetables,0.2,2300.0,2500.0,2400.0,2019-01-19
+Kerala,Ernakulam,Elephant Yam (Suran),Aluva,Other,Vegetables,2.0,2200.0,3000.0,2600.0,2019-01-19
+Kerala,Thiruvananthapuram,Elephant Yam (Suran),Anyara(EEC),Elephant Yam (Suran),Vegetables,0.5,230.0,280.0,250.0,2019-01-19
+Kerala,Thiruvananthapuram,Elephant Yam (Suran),Chala,Other,Vegetables,3.0,3300.0,3351.0,3324.0,2019-01-19
+Kerala,Thirssur,Elephant Yam (Suran),Chelakkara,Other,Vegetables,0.2,2800.0,3000.0,2900.0,2019-01-19
+Kerala,Ernakulam,Elephant Yam (Suran),Ernakulam,Other,Vegetables,0.35,1600.0,2300.0,1800.0,2019-01-19
+Kerala,Kottayam,Elephant Yam (Suran),Ettumanoor,Other,Vegetables,0.6,2300.0,2500.0,2500.0,2019-01-19
+Kerala,Kasargod,Elephant Yam (Suran),Kanjangadu,Other,Vegetables,1.0,2200.0,3000.0,2600.0,2019-01-19
+Kerala,Palakad,Elephant Yam (Suran),Kollengode,Other,Vegetables,1.0,2200.0,2450.0,2400.0,2019-01-19
+Kerala,Ernakulam,Elephant Yam (Suran),Kothamangalam,Other,Vegetables,1.0,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Pathanamthitta,Elephant Yam (Suran),Kuttoor,Other,Vegetables,2.0,2800.0,3000.0,3000.0,2019-01-19
+Kerala,Malappuram,Elephant Yam (Suran),Manjeri,Other,Vegetables,4.0,1700.0,1800.0,1750.0,2019-01-19
+Kerala,Idukki,Elephant Yam (Suran),Nedumkandam,Other,Vegetables,0.4,4000.0,4000.0,4000.0,2019-01-19
+Kerala,Pathanamthitta,Elephant Yam (Suran),Omalloor,Other,Vegetables,0.2,2900.0,3000.0,3000.0,2019-01-19
+Kerala,Palakad,Elephant Yam (Suran),Palakkad,Other,Vegetables,1.0,1400.0,2000.0,1800.0,2019-01-19
+Kerala,Kottayam,Elephant Yam (Suran),Pampady,Other,Vegetables,1.0,2500.0,2900.0,2700.0,2019-01-19
+Kerala,Palakad,Elephant Yam (Suran),Pattambi,Other,Vegetables,0.5,2000.0,2600.0,2400.0,2019-01-19
+Kerala,Pathanamthitta,Elephant Yam (Suran),Ranniangadi,Other,Vegetables,0.8,2500.0,2500.0,2500.0,2019-01-19
+Kerala,Kottayam,Elephant Yam (Suran),Thalayolaparambu,Other,Vegetables,0.6,2300.0,2700.0,2500.0,2019-01-19
+Kerala,Thirssur,Elephant Yam (Suran),Thrissur,Other,Vegetables,5.0,1800.0,1900.0,1850.0,2019-01-19
+Kerala,Palakad,Elephant Yam (Suran),Vadakkenchery,Other,Vegetables,0.27,1800.0,2400.0,2100.0,2019-01-19
+Kerala,Ernakulam,Field Pea,Ernakulam,Field Pea,Vegetables,0.35,2200.0,2500.0,2500.0,2019-01-19
+Kerala,Ernakulam,Field Pea,Kothamangalam,Other,Vegetables,4.0,4000.0,5000.0,4500.0,2019-01-19
+Kerala,Alappuzha,French Beans (Frasbean),Alappuzha,Other,Vegetables,0.5,4000.0,4100.0,4050.0,2019-01-19
+Kerala,Alappuzha,French Beans (Frasbean),Kayamkulam,Other,Vegetables,1.0,4400.0,4600.0,4500.0,2019-01-19
+Kerala,Palakad,French Beans (Frasbean),Kollengode,Other,Vegetables,0.1,3800.0,4060.0,4000.0,2019-01-19
+Kerala,Kozhikode(Calicut),French Beans (Frasbean),Mukkom,Other,Vegetables,0.5,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Idukki,French Beans (Frasbean),Nedumkandam,Other,Vegetables,0.3,3000.0,3000.0,3000.0,2019-01-19
+Kerala,Palakad,French Beans (Frasbean),Palakkad,Other,Vegetables,2.0,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Kozhikode(Calicut),French Beans (Frasbean),Palayam,Other,Vegetables,10.0,3900.0,4100.0,4000.0,2019-01-19
+Kerala,Palakad,French Beans (Frasbean),Pattambi,Other,Vegetables,0.5,4800.0,6000.0,5500.0,2019-01-19
+Kerala,Kozhikode(Calicut),French Beans (Frasbean),Quilandy,Other,Vegetables,0.25,4700.0,5000.0,4800.0,2019-01-19
+Kerala,Kozhikode(Calicut),French Beans (Frasbean),Thamarassery,Other,Vegetables,0.25,4200.0,5500.0,4500.0,2019-01-19
+Kerala,Idukki,French Beans (Frasbean),Thodupuzha,Other,Vegetables,1.0,4000.0,4200.0,4200.0,2019-01-19
+Kerala,Palakad,French Beans (Frasbean),Vadakkenchery,Other,Vegetables,0.16,5000.0,5500.0,5250.0,2019-01-19
+Kerala,Alappuzha,Garlic,Alappuzha,Other,Spices,0.5,3600.0,3800.0,3700.0,2019-01-19
+Kerala,Palakad,Garlic,Kollengode,Other,Spices,0.7,9980.0,10060.0,10000.0,2019-01-19
+Kerala,Malappuram,Garlic,Kondotty,Other,Spices,0.25,5000.0,5200.0,5100.0,2019-01-19
+Kerala,Ernakulam,Garlic,Moovattupuzha,Garlic,Spices,1.0,3150.0,3400.0,3300.0,2019-01-19
+Kerala,Idukki,Garlic,Nedumkandam,Other,Spices,0.3,3500.0,3500.0,3500.0,2019-01-19
+Kerala,Palakad,Garlic,Palakkad,Garlic,Spices,0.5,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Malappuram,Garlic,Perinthalmanna,Garlic,Spices,2.9,4600.0,5400.0,5000.0,2019-01-19
+Kerala,Idukki,Garlic,Thodupuzha,Other,Spices,1.0,2800.0,3000.0,3000.0,2019-01-19
+Kerala,Palakad,Garlic,Vadakkenchery,Other,Spices,0.18,6000.0,6500.0,6250.0,2019-01-19
+Kerala,Alappuzha,Gingelly Oil,Alappuzha,Other,Oils and Fats,1.0,8900.0,9000.0,8950.0,2019-01-19
+Kerala,Ernakulam,Ginger(Dry),Kothamangalam,Dry,Spices,1.0,22000.0,23000.0,22500.0,2019-01-19
+Kerala,Ernakulam,Ginger(Dry),Moovattupuzha,Dry,Spices,0.5,17800.0,18350.0,18100.0,2019-01-19
+Kerala,Wayanad,Ginger(Dry),Pulpally,Other,Spices,2.0,2150.0,2350.0,2250.0,2019-01-19
+Kerala,Idukki,Ginger(Dry),Thodupuzha,Dry,Spices,0.01,16000.0,18000.0,18000.0,2019-01-19
+Kerala,Alappuzha,Ginger(Green),Alappuzha,Other,Vegetables,0.5,8400.0,8500.0,8450.0,2019-01-19
+Kerala,Ernakulam,Ginger(Green),Aluva,Green Ginger,Vegetables,3.0,8000.0,10000.0,9000.0,2019-01-19
+Kerala,Thiruvananthapuram,Ginger(Green),Aralamoodu,Green Ginger,Vegetables,0.8,12000.0,12000.0,12000.0,2019-01-19
+Kerala,Thiruvananthapuram,Ginger(Green),Chala,Other,Vegetables,3.0,9600.0,9651.0,9623.0,2019-01-19
+Kerala,Kollam,Ginger(Green),Chathanoor,Other,Vegetables,0.2,6300.0,6700.0,6500.0,2019-01-19
+Kerala,Thirssur,Ginger(Green),Chelakkara,Other,Vegetables,0.2,8000.0,8400.0,8200.0,2019-01-19
+Kerala,Ernakulam,Ginger(Green),Ernakulam,Green Ginger,Vegetables,0.35,8600.0,9200.0,9000.0,2019-01-19
+Kerala,Kottayam,Ginger(Green),Ettumanoor,Green Ginger,Vegetables,0.5,8000.0,8500.0,8200.0,2019-01-19
+Kerala,Alappuzha,Ginger(Green),Harippad,Other,Vegetables,0.5,5600.0,6000.0,6000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ginger(Green),Kallachi,Green Ginger,Vegetables,0.4,8800.0,9200.0,9000.0,2019-01-19
+Kerala,Wayanad,Ginger(Green),Kalpetta,Green Ginger,Vegetables,3.5,5200.0,5300.0,5300.0,2019-01-19
+Kerala,Kasargod,Ginger(Green),Kanjangadu,Green Ginger,Vegetables,0.35,7000.0,9000.0,8000.0,2019-01-19
+Kerala,Kottayam,Ginger(Green),Kanjirappally,Green Ginger,Vegetables,1.0,9000.0,10000.0,9800.0,2019-01-19
+Kerala,Alappuzha,Ginger(Green),Kayamkulam,Other,Vegetables,2.0,7100.0,7300.0,7200.0,2019-01-19
+Kerala,Palakad,Ginger(Green),Kollengode,Other,Vegetables,0.1,7800.0,8060.0,8000.0,2019-01-19
+Kerala,Malappuram,Ginger(Green),Kondotty,Other,Vegetables,0.25,6000.0,6200.0,6100.0,2019-01-19
+Kerala,Ernakulam,Ginger(Green),Kothamangalam,Other,Vegetables,1.0,6000.0,7000.0,6500.0,2019-01-19
+Kerala,Malappuram,Ginger(Green),Kottakkal,Other,Vegetables,0.9,7800.0,7900.0,7850.0,2019-01-19
+Kerala,Pathanamthitta,Ginger(Green),Kuttoor,Green Ginger,Vegetables,0.8,7000.0,7500.0,7300.0,2019-01-19
+Kerala,Alappuzha,Ginger(Green),Madhavapuram,Other,Vegetables,2.0,12000.0,13000.0,12500.0,2019-01-19
+Kerala,Malappuram,Ginger(Green),Manjeri,Other,Vegetables,3.0,7200.0,7300.0,7250.0,2019-01-19
+Kerala,Kasargod,Ginger(Green),Manjeswaram,Green Ginger,Vegetables,1.0,8000.0,9000.0,8500.0,2019-01-19
+Kerala,Ernakulam,Ginger(Green),Moovattupuzha,Green Ginger,Vegetables,0.65,8200.0,8500.0,8350.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ginger(Green),Mukkom,Green Ginger,Vegetables,0.5,3600.0,4000.0,3800.0,2019-01-19
+Kerala,Idukki,Ginger(Green),Nedumkandam,Other,Vegetables,0.4,6000.0,6000.0,6000.0,2019-01-19
+Kerala,Pathanamthitta,Ginger(Green),Omalloor,Green Ginger,Vegetables,0.1,6400.0,6500.0,6500.0,2019-01-19
+Kerala,Palakad,Ginger(Green),Palakkad,Green Ginger,Vegetables,0.5,8000.0,9000.0,8600.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ginger(Green),Palayam,Other,Vegetables,10.0,6700.0,6900.0,6800.0,2019-01-19
+Kerala,Kottayam,Ginger(Green),Pampady,Green Ginger,Vegetables,1.0,8000.0,8400.0,8200.0,2019-01-19
+Kerala,Malappuram,Ginger(Green),Parappanangadi,Other,Vegetables,0.3,6000.0,6200.0,6150.0,2019-01-19
+Kerala,Palakad,Ginger(Green),Pattambi,Green Ginger,Vegetables,0.5,10000.0,12000.0,11000.0,2019-01-19
+Kerala,Malappuram,Ginger(Green),Perinthalmanna,Green Ginger,Vegetables,2.3,6600.0,7400.0,7000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ginger(Green),Quilandy,Other,Vegetables,0.25,5500.0,6000.0,6000.0,2019-01-19
+Kerala,Pathanamthitta,Ginger(Green),Ranniangadi,Green Ginger,Vegetables,0.8,9000.0,9200.0,9000.0,2019-01-19
+Kerala,Kottayam,Ginger(Green),Thalayolaparambu,Green Ginger,Vegetables,0.1,8500.0,9300.0,9000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ginger(Green),Thamarassery,Other,Vegetables,0.15,5500.0,7500.0,6000.0,2019-01-19
+Kerala,Malappuram,Ginger(Green),Thirurrangadi,Other,Vegetables,0.6,6100.0,6450.0,6250.0,2019-01-19
+Kerala,Idukki,Ginger(Green),Thodupuzha,Other,Vegetables,1.0,6800.0,7000.0,7000.0,2019-01-19
+Kerala,Ernakulam,Ginger(Green),Thrippunithura,Green Ginger,Vegetables,0.1,9000.0,10000.0,9500.0,2019-01-19
+Kerala,Thirssur,Ginger(Green),Thrissur,Green Ginger,Vegetables,5.0,8000.0,8500.0,8300.0,2019-01-19
+Kerala,Palakad,Ginger(Green),Vadakkenchery,Other,Vegetables,0.23,7000.0,8000.0,7500.0,2019-01-19
+Kerala,Thiruvananthapuram,Grapes,Chala,Black,Fruits,3.0,5000.0,5150.0,5050.0,2019-01-19
+Kerala,Thiruvananthapuram,Grapes,Chala,Green,Fruits,3.0,6000.0,6150.0,6050.0,2019-01-19
+Kerala,Thiruvananthapuram,Grapes,Chala,Green,Fruits,3.0,11000.0,11150.0,11050.0,2019-01-19
+Kerala,Malappuram,Grapes,Kottakkal,Black,Fruits,0.9,4300.0,4400.0,4350.0,2019-01-19
+Kerala,Malappuram,Grapes,Kottakkal,Green,Fruits,0.9,5400.0,5500.0,5450.0,2019-01-19
+Kerala,Malappuram,Grapes,Manjeri,Other,Fruits,5.0,3600.0,3700.0,3650.0,2019-01-19
+Kerala,Kozhikode(Calicut),Grapes,Mukkom,Other,Fruits,0.7,6000.0,7000.0,6500.0,2019-01-19
+Kerala,Malappuram,Grapes,Parappanangadi,Other,Fruits,0.5,5000.0,5200.0,5100.0,2019-01-19
+Kerala,Malappuram,Grapes,Perinthalmanna,Black,Fruits,2.3,5600.0,6400.0,6000.0,2019-01-19
+Kerala,Malappuram,Grapes,Thirurrangadi,Other,Fruits,0.4,6000.0,6350.0,6150.0,2019-01-19
+Kerala,Idukki,Grapes,Thodupuzha,Black,Fruits,0.5,3200.0,3300.0,3300.0,2019-01-19
+Kerala,Idukki,Grapes,Thodupuzha,Green,Fruits,0.5,6800.0,7000.0,7000.0,2019-01-19
+Kerala,Idukki,Grapes,Thodupuzha,Other,Fruits,0.5,5600.0,5800.0,5800.0,2019-01-19
+Kerala,Palakad,Green Avare (W),Kollengode,Other,Vegetables,0.1,2700.0,3050.0,3000.0,2019-01-19
+Kerala,Palakad,Green Avare (W),Palakkad,Green Avare (W),Vegetables,2.0,2000.0,2500.0,2300.0,2019-01-19
+Kerala,Palakad,Green Avare (W),Pattambi,Other,Vegetables,0.2,3000.0,4000.0,3800.0,2019-01-19
+Kerala,Palakad,Green Avare (W),Vadakkenchery,Other,Vegetables,0.22,6000.0,6500.0,6250.0,2019-01-19
+Kerala,Idukki,Green Chilli,Adimali,Green Chilly,Vegetables,0.1,4000.0,4200.0,4100.0,2019-01-19
+Kerala,Alappuzha,Green Chilli,Alappuzha,Other,Vegetables,0.5,3500.0,3600.0,3550.0,2019-01-19
+Kerala,Ernakulam,Green Chilli,Aluva,Green Chilly,Vegetables,7.0,3500.0,5000.0,4300.0,2019-01-19
+Kerala,Thiruvananthapuram,Green Chilli,Aralamoodu,Green Chilly,Vegetables,1.0,4000.0,7000.0,7000.0,2019-01-19
+Kerala,Thiruvananthapuram,Green Chilli,Chala,Green Chilly,Vegetables,6.0,9600.0,9654.0,9623.0,2019-01-19
+Kerala,Thiruvananthapuram,Green Chilli,Chala,Other,Vegetables,6.0,5800.0,5852.0,5824.0,2019-01-19
+Kerala,Kollam,Green Chilli,Chathanoor,Other,Vegetables,0.1,7800.0,8200.0,8000.0,2019-01-19
+Kerala,Thirssur,Green Chilli,Chelakkara,Other,Vegetables,0.2,2400.0,2500.0,2500.0,2019-01-19
+Kerala,Alappuzha,Green Chilli,Cherthala,Green Chilly,Vegetables,0.4,3200.0,3300.0,3250.0,2019-01-19
+Kerala,Ernakulam,Green Chilli,Ernakulam,Green Chilly,Vegetables,0.35,2900.0,3500.0,3200.0,2019-01-19
+Kerala,Kottayam,Green Chilli,Ettumanoor,Green Chilly,Vegetables,2.3,4000.0,4200.0,4100.0,2019-01-19
+Kerala,Alappuzha,Green Chilli,Harippad,Other,Vegetables,0.5,3500.0,4000.0,4000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Green Chilli,Kallachi,Green Chilly,Vegetables,0.4,3600.0,4000.0,3800.0,2019-01-19
+Kerala,Wayanad,Green Chilli,Kalpetta,Green Chilly,Vegetables,0.03,2500.0,2600.0,2600.0,2019-01-19
+Kerala,Kasargod,Green Chilli,Kanjangadu,Green Chilly,Vegetables,0.35,3800.0,5000.0,4500.0,2019-01-19
+Kerala,Kottayam,Green Chilli,Kanjirappally,Green Chilly,Vegetables,1.0,5500.0,6000.0,5800.0,2019-01-19
+Kerala,Alappuzha,Green Chilli,Kayamkulam,Other,Vegetables,1.0,2800.0,3000.0,2900.0,2019-01-19
+Kerala,Palakad,Green Chilli,Kollengode,Green Chilly,Vegetables,0.15,2700.0,3050.0,3000.0,2019-01-19
+Kerala,Palakad,Green Chilli,Kollengode,Other,Vegetables,0.15,3700.0,4050.0,4000.0,2019-01-19
+Kerala,Malappuram,Green Chilli,Kondotty,Other,Vegetables,0.2,4000.0,4200.0,4100.0,2019-01-19
+Kerala,Ernakulam,Green Chilli,Kothamangalam,Other,Vegetables,1.0,5000.0,6000.0,5500.0,2019-01-19
+Kerala,Malappuram,Green Chilli,Kottakkal,Other,Vegetables,0.9,4500.0,4600.0,4550.0,2019-01-19
+Kerala,Alappuzha,Green Chilli,Madhavapuram,Other,Vegetables,2.0,5200.0,5800.0,5400.0,2019-01-19
+Kerala,Malappuram,Green Chilli,Manjeri,Other,Vegetables,4.0,4500.0,4600.0,4550.0,2019-01-19
+Kerala,Kasargod,Green Chilli,Manjeswaram,Green Chilly,Vegetables,2.0,6500.0,7500.0,7000.0,2019-01-19
+Kerala,Ernakulam,Green Chilli,Moovattupuzha,Green Chilly,Vegetables,0.85,3750.0,4000.0,3850.0,2019-01-19
+Kerala,Kozhikode(Calicut),Green Chilli,Mukkom,Green Chilly,Vegetables,0.5,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Idukki,Green Chilli,Munnar,Other,Vegetables,0.8,4500.0,6000.0,6000.0,2019-01-19
+Kerala,Idukki,Green Chilli,Nedumkandam,Other,Vegetables,0.3,4000.0,4000.0,4000.0,2019-01-19
+Kerala,Thiruvananthapuram,Green Chilli,Neyyatinkara,Green Chilly,Vegetables,0.2,4500.0,5000.0,4700.0,2019-01-19
+Kerala,Pathanamthitta,Green Chilli,Omalloor,Green Chilly,Vegetables,0.05,3900.0,4000.0,4000.0,2019-01-19
+Kerala,Palakad,Green Chilli,Palakkad,Green Chilly,Vegetables,2.0,3000.0,3500.0,3300.0,2019-01-19
+Kerala,Kozhikode(Calicut),Green Chilli,Palayam,Other,Vegetables,10.0,3400.0,3600.0,3500.0,2019-01-19
+Kerala,Kottayam,Green Chilli,Pampady,Green Chilly,Vegetables,1.0,4200.0,4600.0,4400.0,2019-01-19
+Kerala,Malappuram,Green Chilli,Parappanangadi,Other,Vegetables,0.5,2000.0,2200.0,2100.0,2019-01-19
+Kerala,Palakad,Green Chilli,Pattambi,Green Chilly,Vegetables,0.2,3800.0,5000.0,4500.0,2019-01-19
+Kerala,Malappuram,Green Chilli,Perinthalmanna,Green Chilly,Vegetables,2.6,4700.0,5300.0,5000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Green Chilli,Quilandy,Other,Vegetables,0.5,3500.0,3800.0,3700.0,2019-01-19
+Kerala,Kottayam,Green Chilli,Thalayolaparambu,Green Chilly,Vegetables,0.6,5000.0,5500.0,5300.0,2019-01-19
+Kerala,Kozhikode(Calicut),Green Chilli,Thamarassery,Other,Vegetables,0.3,3600.0,4500.0,3800.0,2019-01-19
+Kerala,Malappuram,Green Chilli,Thirurrangadi,Other,Vegetables,0.6,3000.0,3450.0,3200.0,2019-01-19
+Kerala,Idukki,Green Chilli,Thodupuzha,Other,Vegetables,1.0,2800.0,3000.0,3000.0,2019-01-19
+Kerala,Ernakulam,Green Chilli,Thrippunithura,Green Chilly,Vegetables,0.1,3500.0,4500.0,4000.0,2019-01-19
+Kerala,Thirssur,Green Chilli,Thrissur,Green Chilly,Vegetables,10.0,3400.0,3500.0,3450.0,2019-01-19
+Kerala,Palakad,Green Chilli,Vadakkenchery,Other,Vegetables,0.18,3000.0,3500.0,3250.0,2019-01-19
+Kerala,Alappuzha,Green Peas,Alappuzha,Other,Pulses,0.5,7300.0,7400.0,7350.0,2019-01-19
+Kerala,Palakad,Green Peas,Kollengode,Green Peas,Pulses,0.06,8180.0,8260.0,8200.0,2019-01-19
+Kerala,Idukki,Green Peas,Munnar,Gemin Peas Dal,Pulses,0.8,4000.0,5000.0,5000.0,2019-01-19
+Kerala,Palakad,Green Peas,Palakkad,Green Peas,Pulses,1.0,7500.0,8000.0,7800.0,2019-01-19
+Kerala,Palakad,Green Peas,Vadakkenchery,Green Peas,Pulses,0.23,8000.0,8800.0,8400.0,2019-01-19
+Kerala,Alappuzha,Green Gram (Moong)(Whole),Alappuzha,Other,Pulses,2.0,7300.0,7400.0,7350.0,2019-01-19
+Kerala,Palakad,Green Gram (Moong)(Whole),Kollengode,Green (Whole),Pulses,0.05,8380.0,8460.0,8400.0,2019-01-19
+Kerala,Malappuram,Green Gram (Moong)(Whole),Manjeri,Bold,Pulses,4.0,6900.0,7000.0,6950.0,2019-01-19
+Kerala,Palakad,Green Gram (Moong)(Whole),Palakkad,Green (Whole),Pulses,2.0,7500.0,8000.0,7800.0,2019-01-19
+Kerala,Palakad,Green Gram (Moong)(Whole),Palakkad,Green Gram Dhall-I,Pulses,2.0,8000.0,8500.0,8300.0,2019-01-19
+Kerala,Palakad,Green Gram (Moong)(Whole),Vadakkenchery,Green (Whole),Pulses,0.33,8200.0,8800.0,8500.0,2019-01-19
+Kerala,Palakad,Green Gram (Moong)(Whole),Vadakkenchery,Green Gram Dhall-I,Pulses,0.33,8500.0,9000.0,8750.0,2019-01-19
+Kerala,Malappuram,Guava,Perinthalmanna,Guava,Fruits,2.5,4600.0,5400.0,5000.0,2019-01-19
+Kerala,Alappuzha,Indian Beans (Seam),Alappuzha,Other,Vegetables,0.5,3100.0,3200.0,3150.0,2019-01-19
+Kerala,Kasargod,Indian Beans (Seam),Manjeswaram,Other,Vegetables,1.0,4600.0,5200.0,4900.0,2019-01-19
+Kerala,Kottayam,Indian Beans (Seam),Pampady,Other,Vegetables,1.0,5000.0,5400.0,5200.0,2019-01-19
+Kerala,Ernakulam,Indian Beans (Seam),Thrippunithura,Other,Vegetables,0.5,6000.0,7000.0,6400.0,2019-01-19
+Kerala,Palakad,Kabuli Chana(Chickpeas-White),Kollengode,Kabuli Chana(Chickpeas-white),Pulses,0.1,6790.0,6860.0,6800.0,2019-01-19
+Kerala,Palakad,Kabuli Chana(Chickpeas-White),Palakkad,Kabuli Chana(Chickpeas-white),Pulses,1.0,7000.0,7500.0,7300.0,2019-01-19
+Kerala,Palakad,Kabuli Chana(Chickpeas-White),Vadakkenchery,Kabuli Chana(Chickpeas-white),Pulses,0.22,8500.0,9000.0,8750.0,2019-01-19
+Kerala,Thiruvananthapuram,Lemon,Aralamoodu,Other,Vegetables,2.0,4000.0,6000.0,6000.0,2019-01-19
+Kerala,Thiruvananthapuram,Lemon,Chala,Other,Vegetables,3.0,7700.0,7751.0,7723.0,2019-01-19
+Kerala,Alappuzha,Lemon,Harippad,Other,Vegetables,0.5,4500.0,5000.0,5000.0,2019-01-19
+Kerala,Palakad,Lemon,Kollengode,Other,Vegetables,0.05,3700.0,4050.0,4000.0,2019-01-19
+Kerala,Malappuram,Lemon,Kondotty,Other,Vegetables,0.2,5000.0,5200.0,5100.0,2019-01-19
+Kerala,Alappuzha,Lemon,Madhavapuram,Other,Vegetables,3.0,5500.0,6000.0,5800.0,2019-01-19
+Kerala,Kasargod,Lemon,Neeleswaram,Other,Vegetables,1.0,5800.0,6200.0,6000.0,2019-01-19
+Kerala,Palakad,Lemon,Palakkad,Other,Vegetables,1.0,5000.0,6000.0,5600.0,2019-01-19
+Kerala,Palakad,Lemon,Pattambi,Other,Vegetables,0.5,5000.0,6000.0,5500.0,2019-01-19
+Kerala,Malappuram,Lemon,Perinthalmanna,Other,Vegetables,2.9,6200.0,6800.0,6500.0,2019-01-19
+Kerala,Kottayam,Lemon,Thalayolaparambu,Other,Vegetables,0.2,5000.0,5600.0,5300.0,2019-01-19
+Kerala,Ernakulam,Lemon,Thrippunithura,Other,Vegetables,0.3,5000.0,6000.0,5400.0,2019-01-19
+Kerala,Thirssur,Lemon,Thrissur,Other,Vegetables,5.0,5500.0,6000.0,5800.0,2019-01-19
+Kerala,Palakad,Lemon,Vadakkenchery,Other,Vegetables,0.2,5000.0,6000.0,5500.0,2019-01-19
+Kerala,Palakad,Lentil (Masur)(Whole),Kollengode,Masur Dal,Pulses,0.05,7380.0,7460.0,7400.0,2019-01-19
+Kerala,Thiruvananthapuram,Lime,Chala,Lime,Fruits,3.0,7800.0,7856.0,7823.0,2019-01-19
+Kerala,Palakad,Lime,Kollengode,Other,Fruits,0.1,5800.0,6060.0,6000.0,2019-01-19
+Kerala,Malappuram,Lime,Kottakkal,Other,Fruits,3.0,4600.0,4700.0,4650.0,2019-01-19
+Kerala,Malappuram,Lime,Manjeri,Other,Fruits,5.0,5200.0,5300.0,5250.0,2019-01-19
+Kerala,Palakad,Lime,Palakkad,Other,Fruits,0.25,5500.0,6000.0,5800.0,2019-01-19
+Kerala,Palakad,Lime,Pattambi,Other,Fruits,0.5,5000.0,6000.0,5500.0,2019-01-19
+Kerala,Palakad,Lime,Vadakkenchery,Other,Fruits,0.23,4000.0,4500.0,4250.0,2019-01-19
+Kerala,Ernakulam,Mace,Moovattupuzha,Other,Spices,1.4,55400.0,56300.0,55850.0,2019-01-19
+Kerala,Ernakulam,Little gourd (Kundru),Aluva,Other,Vegetables,1.0,3000.0,4000.0,3500.0,2019-01-19
+Kerala,Thiruvananthapuram,Little gourd (Kundru),Chala,Little gourd (Kundru),Vegetables,3.0,4700.0,4753.0,4728.0,2019-01-19
+Kerala,Alappuzha,Little gourd (Kundru),Cherthala,Other,Vegetables,0.5,3400.0,3500.0,3450.0,2019-01-19
+Kerala,Kottayam,Little gourd (Kundru),Ettumanoor,Other,Vegetables,2.3,3400.0,3600.0,3500.0,2019-01-19
+Kerala,Kasargod,Little gourd (Kundru),Kanjangadu,Other,Vegetables,0.55,2500.0,3500.0,3000.0,2019-01-19
+Kerala,Kottayam,Little gourd (Kundru),Kanjirappally,Other,Vegetables,1.25,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Palakad,Little gourd (Kundru),Kollengode,Other,Vegetables,0.1,1700.0,2050.0,2000.0,2019-01-19
+Kerala,Ernakulam,Little gourd (Kundru),Kothamangalam,Other,Vegetables,1.0,3000.0,3500.0,3200.0,2019-01-19
+Kerala,Malappuram,Little gourd (Kundru),Manjeri,Other,Vegetables,4.0,2500.0,2600.0,2550.0,2019-01-19
+Kerala,Kasargod,Little gourd (Kundru),Manjeswaram,Other,Vegetables,2.5,4400.0,5000.0,4700.0,2019-01-19
+Kerala,Idukki,Little gourd (Kundru),Nedumkandam,Other,Vegetables,0.3,3000.0,3000.0,3000.0,2019-01-19
+Kerala,Palakad,Little gourd (Kundru),Palakkad,Other,Vegetables,1.0,3000.0,3500.0,3300.0,2019-01-19
+Kerala,Kottayam,Little gourd (Kundru),Pampady,Other,Vegetables,1.0,3500.0,3900.0,3700.0,2019-01-19
+Kerala,Palakad,Little gourd (Kundru),Pattambi,Other,Vegetables,0.1,3000.0,4000.0,3800.0,2019-01-19
+Kerala,Kottayam,Little gourd (Kundru),Thalayolaparambu,Other,Vegetables,0.6,3000.0,3500.0,3300.0,2019-01-19
+Kerala,Idukki,Little gourd (Kundru),Thodupuzha,Other,Vegetables,1.0,3200.0,3400.0,3400.0,2019-01-19
+Kerala,Ernakulam,Little gourd (Kundru),Thrippunithura,Other,Vegetables,0.5,4000.0,5000.0,4400.0,2019-01-19
+Kerala,Thirssur,Little gourd (Kundru),Thrissur,Other,Vegetables,5.0,2800.0,3000.0,2900.0,2019-01-19
+Kerala,Palakad,Little gourd (Kundru),Vadakkenchery,Other,Vegetables,0.22,3000.0,3500.0,3250.0,2019-01-19
+Kerala,Kasargod,Long Melon(Kakri),Manjeswaram,Other,Vegetables,2.5,3000.0,4000.0,3500.0,2019-01-19
+Kerala,Alappuzha,Mango,Harippad,Other,Fruits,1.0,3500.0,5000.0,4000.0,2019-01-19
+Kerala,Palakad,Mango,Pattambi,Other,Fruits,0.2,7000.0,8000.0,7500.0,2019-01-19
+Kerala,Malappuram,Mango,Perinthalmanna,Other,Fruits,2.1,7100.0,7900.0,7500.0,2019-01-19
+Kerala,Kottayam,Mango,Thalayolaparambu,Other,Fruits,0.6,5000.0,5500.0,5300.0,2019-01-19
+Kerala,Thirssur,Mango (Raw-Ripe),Thrissur,Mango - Raw-Ripe,Vegetables,5.0,4500.0,5000.0,4800.0,2019-01-19
+Kerala,Alappuzha,Mango (Raw-Ripe),Alappuzha,Other,Vegetables,0.5,4500.0,4700.0,4600.0,2019-01-19
+Kerala,Ernakulam,Mango (Raw-Ripe),Aluva,Mango - Raw-Ripe,Vegetables,3.0,5000.0,6000.0,5500.0,2019-01-19
+Kerala,Thiruvananthapuram,Mango (Raw-Ripe),Aralamoodu,Mango - Raw-Ripe,Vegetables,0.7,12000.0,12000.0,12000.0,2019-01-19
+Kerala,Thiruvananthapuram,Mango (Raw-Ripe),Chala,Other,Vegetables,3.0,12700.0,12754.0,12728.0,2019-01-19
+Kerala,Thirssur,Mango (Raw-Ripe),Chelakkara,Other,Vegetables,0.18,3000.0,3400.0,3200.0,2019-01-19
+Kerala,Ernakulam,Mango (Raw-Ripe),Ernakulam,Mango - Raw-Ripe,Vegetables,0.35,3600.0,4200.0,4000.0,2019-01-19
+Kerala,Kottayam,Mango (Raw-Ripe),Ettumanoor,Mango - Raw-Ripe,Vegetables,1.3,4000.0,4200.0,4100.0,2019-01-19
+Kerala,Palakad,Mango (Raw-Ripe),Kollengode,Other,Vegetables,0.1,3700.0,4050.0,4000.0,2019-01-19
+Kerala,Ernakulam,Mango (Raw-Ripe),Kothamangalam,Other,Vegetables,1.0,6000.0,7000.0,6500.0,2019-01-19
+Kerala,Malappuram,Mango (Raw-Ripe),Kottakkal,Other,Vegetables,3.0,3500.0,3600.0,3550.0,2019-01-19
+Kerala,Ernakulam,Mango (Raw-Ripe),Moovattupuzha,Other,Vegetables,0.8,4150.0,4500.0,4300.0,2019-01-19
+Kerala,Palakad,Mango (Raw-Ripe),Palakkad,Mango - Raw-Ripe,Vegetables,0.5,6000.0,6500.0,6300.0,2019-01-19
+Kerala,Kottayam,Mango (Raw-Ripe),Pampady,Other,Vegetables,1.0,4500.0,4900.0,4700.0,2019-01-19
+Kerala,Idukki,Mango (Raw-Ripe),Thodupuzha,Other,Vegetables,0.5,4800.0,5000.0,5000.0,2019-01-19
+Kerala,Ernakulam,Mango (Raw-Ripe),Thrippunithura,Mango - Raw-Ripe,Vegetables,0.4,6000.0,7000.0,6500.0,2019-01-19
+Kerala,Palakad,Mango (Raw-Ripe),Vadakkenchery,Other,Vegetables,0.15,5500.0,6500.0,6000.0,2019-01-19
+Kerala,Malappuram,Mousambi(Sweet Lime),Manjeri,Other,Fruits,5.0,4300.0,4400.0,4350.0,2019-01-19
+Kerala,Ernakulam,Nutmeg,Moovattupuzha,Other,Spices,4.0,20250.0,20800.0,20500.0,2019-01-19
+Kerala,Idukki,Nutmeg,Thodupuzha,Other,Spices,0.2,20000.0,22500.0,21000.0,2019-01-19
+Kerala,Thirssur,Nutmeg,Thrissur,Other,Spices,0.03,28000.0,30000.0,29000.0,2019-01-19
+Kerala,Alappuzha,Onion,Alappuzha,Big,Vegetables,10.0,1250.0,1400.0,1300.0,2019-01-19
+Kerala,Alappuzha,Onion,Alappuzha,Small,Vegetables,10.0,2700.0,2900.0,2800.0,2019-01-19
+Kerala,Ernakulam,Onion,Aluva,Big,Vegetables,32.0,1300.0,1800.0,1600.0,2019-01-19
+Kerala,Ernakulam,Onion,Aluva,Small,Vegetables,32.0,2600.0,3500.0,3000.0,2019-01-19
+Kerala,Thiruvananthapuram,Onion,Aralamoodu,Onion,Vegetables,2.5,4000.0,4000.0,4000.0,2019-01-19
+Kerala,Thiruvananthapuram,Onion,Chala,Onion,Vegetables,6.0,4700.0,4750.0,4725.0,2019-01-19
+Kerala,Thiruvananthapuram,Onion,Chala,Big,Vegetables,6.0,1800.0,1852.0,1826.0,2019-01-19
+Kerala,Thirssur,Onion,Chelakkara,Other,Vegetables,0.2,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Ernakulam,Onion,Ernakulam,Big,Vegetables,0.35,1000.0,1500.0,1200.0,2019-01-19
+Kerala,Kottayam,Onion,Ettumanoor,Onion,Vegetables,2.9,3200.0,3400.0,3300.0,2019-01-19
+Kerala,Kottayam,Onion,Ettumanoor,Big,Vegetables,2.9,1200.0,1400.0,1400.0,2019-01-19
+Kerala,Kozhikode(Calicut),Onion,Kallachi,Other,Vegetables,0.4,1200.0,1600.0,1400.0,2019-01-19
+Kerala,Kasargod,Onion,Kanjangadu,Big,Vegetables,2.0,1100.0,1600.0,1200.0,2019-01-19
+Kerala,Kottayam,Onion,Kanjirappally,Onion,Vegetables,1.25,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Kottayam,Onion,Kanjirappally,Big,Vegetables,1.25,1500.0,2000.0,1800.0,2019-01-19
+Kerala,Kannur,Onion,Kannur,Other,Vegetables,40.0,1600.0,1700.0,1650.0,2019-01-19
+Kerala,Alappuzha,Onion,Kayamkulam,Big,Vegetables,4.0,1200.0,1400.0,1300.0,2019-01-19
+Kerala,Alappuzha,Onion,Kayamkulam,Small,Vegetables,4.0,3000.0,3200.0,3100.0,2019-01-19
+Kerala,Palakad,Onion,Kollengode,Big,Vegetables,3.7,1300.0,1650.0,1600.0,2019-01-19
+Kerala,Palakad,Onion,Kollengode,Small,Vegetables,3.7,3300.0,3660.0,3600.0,2019-01-19
+Kerala,Malappuram,Onion,Kondotty,Other,Vegetables,16.0,1400.0,1600.0,1500.0,2019-01-19
+Kerala,Ernakulam,Onion,Kothamangalam,Big,Vegetables,8.0,1500.0,1800.0,1600.0,2019-01-19
+Kerala,Ernakulam,Onion,Kothamangalam,Other,Vegetables,8.0,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Malappuram,Onion,Kottakkal,Other,Vegetables,4.0,1450.0,1550.0,1500.0,2019-01-19
+Kerala,Alappuzha,Onion,Madhavapuram,Other,Vegetables,2.5,2800.0,3200.0,3000.0,2019-01-19
+Kerala,Malappuram,Onion,Manjeri,Other,Vegetables,8.0,1400.0,1500.0,1450.0,2019-01-19
+Kerala,Ernakulam,Onion,Moovattupuzha,Big,Vegetables,4.0,1500.0,1800.0,1650.0,2019-01-19
+Kerala,Ernakulam,Onion,Moovattupuzha,Small,Vegetables,4.0,3500.0,3800.0,3650.0,2019-01-19
+Kerala,Kozhikode(Calicut),Onion,Mukkom,Onion,Vegetables,0.5,1400.0,1800.0,1600.0,2019-01-19
+Kerala,Idukki,Onion,Munnar,Big,Vegetables,1.0,2500.0,3200.0,2800.0,2019-01-19
+Kerala,Idukki,Onion,Munnar,Small,Vegetables,1.0,4500.0,5000.0,4800.0,2019-01-19
+Kerala,Kasargod,Onion,Neeleswaram,Big,Vegetables,1.0,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Palakad,Onion,Palakkad,Big,Vegetables,2.0,1400.0,1800.0,1700.0,2019-01-19
+Kerala,Palakad,Onion,Palakkad,Small,Vegetables,2.0,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Kozhikode(Calicut),Onion,Palayam,Other,Vegetables,60.0,1000.0,1200.0,1100.0,2019-01-19
+Kerala,Kottayam,Onion,Pampady,Big,Vegetables,2.0,1200.0,1600.0,1400.0,2019-01-19
+Kerala,Malappuram,Onion,Parappanangadi,Other,Vegetables,3.0,1400.0,1600.0,1500.0,2019-01-19
+Kerala,Palakad,Onion,Pattambi,Big,Vegetables,3.0,1200.0,1400.0,1300.0,2019-01-19
+Kerala,Palakad,Onion,Pattambi,Small,Vegetables,3.0,3000.0,4000.0,3500.0,2019-01-19
+Kerala,Malappuram,Onion,Perinthalmanna,Onion,Vegetables,2.6,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Kottayam,Onion,Thalayolaparambu,Onion,Vegetables,0.8,3200.0,3700.0,3500.0,2019-01-19
+Kerala,Kottayam,Onion,Thalayolaparambu,Big,Vegetables,0.8,1300.0,1700.0,1500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Onion,Thamarassery,Other,Vegetables,0.5,1200.0,1700.0,1400.0,2019-01-19
+Kerala,Malappuram,Onion,Thirurrangadi,Other,Vegetables,3.0,1350.0,1850.0,1650.0,2019-01-19
+Kerala,Idukki,Onion,Thodupuzha,Big,Vegetables,50.0,1000.0,1200.0,1200.0,2019-01-19
+Kerala,Idukki,Onion,Thodupuzha,Small,Vegetables,50.0,2600.0,2800.0,2800.0,2019-01-19
+Kerala,Ernakulam,Onion,Thrippunithura,Big,Vegetables,1.0,1500.0,2100.0,1700.0,2019-01-19
+Kerala,Thirssur,Onion,Thrissur,Onion,Vegetables,20.0,1200.0,1500.0,1350.0,2019-01-19
+Kerala,Palakad,Onion,Vadakkenchery,Big,Vegetables,0.58,1200.0,1600.0,1400.0,2019-01-19
+Kerala,Palakad,Onion,Vadakkenchery,Small,Vegetables,0.58,3500.0,4000.0,3750.0,2019-01-19
+Kerala,Thiruvananthapuram,Orange,Chala,Other,Fruits,3.0,5000.0,5150.0,5050.0,2019-01-19
+Kerala,Malappuram,Orange,Kondotty,Other,Fruits,0.25,5000.0,5200.0,5100.0,2019-01-19
+Kerala,Malappuram,Orange,Kottakkal,Other,Fruits,1.0,5500.0,5600.0,5550.0,2019-01-19
+Kerala,Malappuram,Orange,Manjeri,Other,Fruits,5.0,4200.0,4300.0,4250.0,2019-01-19
+Kerala,Kozhikode(Calicut),Orange,Mukkom,Other,Fruits,0.5,4000.0,5000.0,4500.0,2019-01-19
+Kerala,Malappuram,Orange,Parappanangadi,Other,Fruits,0.6,4000.0,4350.0,4200.0,2019-01-19
+Kerala,Malappuram,Orange,Perinthalmanna,Orange,Fruits,2.3,4700.0,5300.0,5000.0,2019-01-19
+Kerala,Malappuram,Orange,Thirurrangadi,Other,Fruits,0.5,4200.0,4400.0,4350.0,2019-01-19
+Kerala,Idukki,Orange,Thodupuzha,Other,Fruits,1.0,4000.0,4200.0,4200.0,2019-01-19
+Kerala,Ernakulam,Paddy(Dhan)(Basmati),Ernakulam,1121,Cereals,0.35,9500.0,9800.0,9800.0,2019-01-19
+Kerala,Kasargod,Paddy(Dhan)(Common),Kasargod,Other,Cereals,4.0,1800.0,1900.0,1850.0,2019-01-19
+Kerala,Wayanad,Paddy(Dhan)(Common),Pulpally,Other,Cereals,1.0,2150.0,2350.0,2250.0,2019-01-19
+Kerala,Alappuzha,Papaya,Madhavapuram,Other,Fruits,1.5,1000.0,1400.0,1200.0,2019-01-19
+Kerala,Malappuram,Papaya,Perinthalmanna,Papaya,Fruits,2.4,3500.0,4100.0,3800.0,2019-01-19
+Kerala,Malappuram,Papaya (Raw),Kottakkal,Other,Vegetables,2.0,2650.0,2750.0,2700.0,2019-01-19
+Kerala,Kasargod,Pepper garbled,Kasargod,Other,Spices,0.6,32000.0,33000.0,32500.0,2019-01-19
+Kerala,Kasargod,Pepper garbled,Manjeswaram,Other,Spices,1.0,29000.0,29500.0,29250.0,2019-01-19
+Kerala,Pathanamthitta,Pepper ungarbled,Kuttoor,Other,Spices,1.0,33100.0,33700.0,33400.0,2019-01-19
+Kerala,Malappuram,Pepper ungarbled,Manjeri,Other,Spices,0.5,33500.0,33600.0,33550.0,2019-01-19
+Kerala,Ernakulam,Pepper ungarbled,Moovattupuzha,Other,Spices,1.0,38500.0,39200.0,38850.0,2019-01-19
+Kerala,Wayanad,Pepper ungarbled,Pulpally,Other,Spices,2.0,34500.0,36500.0,35500.0,2019-01-19
+Kerala,Pathanamthitta,Pepper ungarbled,Ranniangadi,Other,Spices,0.3,34000.0,34200.0,34200.0,2019-01-19
+Kerala,Palakad,Pepper ungarbled,Vadakkenchery,Other,Spices,0.15,30000.0,31000.0,30500.0,2019-01-19
+Kerala,Ernakulam,Pineapple,Aluva,Pine Apple,Fruits,4.0,1500.0,2000.0,1800.0,2019-01-19
+Kerala,Thiruvananthapuram,Pineapple,Chala,Other,Fruits,3.0,3000.0,3051.0,3026.0,2019-01-19
+Kerala,Alappuzha,Pineapple,Harippad,Other,Fruits,1.0,2500.0,3000.0,2500.0,2019-01-19
+Kerala,Ernakulam,Pineapple,Keezhampara,Other,Fruits,7.25,1200.0,1400.0,1300.0,2019-01-19
+Kerala,Ernakulam,Pineapple,Keezhampara,Other,Fruits,7.25,900.0,1100.0,1000.0,2019-01-19
+Kerala,Ernakulam,Pineapple,Keezhampara,Other,Fruits,7.25,600.0,800.0,700.0,2019-01-19
+Kerala,Palakad,Pineapple,Kollengode,Other,Fruits,0.1,3800.0,4060.0,4000.0,2019-01-19
+Kerala,Ernakulam,Pineapple,Kothamangalam,Other,Fruits,3.0,1500.0,2000.0,1800.0,2019-01-19
+Kerala,Malappuram,Pineapple,Kottakkal,Other,Fruits,3.0,2550.0,2680.0,2600.0,2019-01-19
+Kerala,Malappuram,Pineapple,Manjeri,Other,Fruits,5.0,2100.0,2200.0,2150.0,2019-01-19
+Kerala,Ernakulam,Pineapple,Moovattupuzha,Pine Apple,Fruits,55.0,1900.0,2250.0,2100.0,2019-01-19
+Kerala,Kozhikode(Calicut),Pineapple,Mukkom,Other,Fruits,0.5,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Palakad,Pineapple,Palakkad,Pine Apple,Fruits,1.0,2200.0,2600.0,2500.0,2019-01-19
+Kerala,Malappuram,Pineapple,Parappanangadi,Other,Fruits,0.5,2500.0,2750.0,2650.0,2019-01-19
+Kerala,Malappuram,Pineapple,Perinthalmanna,Pine Apple,Fruits,2.7,3800.0,4200.0,4000.0,2019-01-19
+Kerala,Kottayam,Pineapple,Thalayolaparambu,Pine Apple,Fruits,0.7,1700.0,2100.0,1900.0,2019-01-19
+Kerala,Malappuram,Pineapple,Thirurrangadi,Other,Fruits,1.2,2850.0,3350.0,3150.0,2019-01-19
+Kerala,Ernakulam,Pineapple,Thrippunithura,Pine Apple,Fruits,0.5,2500.0,3500.0,3000.0,2019-01-19
+Kerala,Thirssur,Pineapple,Thrissur,Pine Apple,Fruits,5.0,2500.0,2800.0,2650.0,2019-01-19
+Kerala,Palakad,Pineapple,Vadakkenchery,Other,Fruits,0.36,2000.0,2500.0,2250.0,2019-01-19
+Kerala,Malappuram,Pomegranate,Kondotty,Other,Fruits,0.2,6000.0,6200.0,6100.0,2019-01-19
+Kerala,Alappuzha,Pumpkin,Madhavapuram,Other,Vegetables,2.0,1400.0,1600.0,1500.0,2019-01-19
+Kerala,Alappuzha,Pumpkin,Alappuzha,Other,Vegetables,0.5,1150.0,1225.0,1200.0,2019-01-19
+Kerala,Ernakulam,Pumpkin,Aluva,Pumpkin,Vegetables,3.0,900.0,1600.0,1300.0,2019-01-19
+Kerala,Thiruvananthapuram,Pumpkin,Aralamoodu,Pumpkin,Vegetables,1.0,1500.0,1500.0,1500.0,2019-01-19
+Kerala,Thiruvananthapuram,Pumpkin,Chala,Other,Vegetables,3.0,1800.0,1856.0,1823.0,2019-01-19
+Kerala,Thirssur,Pumpkin,Chelakkara,Other,Vegetables,0.25,1600.0,1800.0,1700.0,2019-01-19
+Kerala,Alappuzha,Pumpkin,Cherthala,Other,Vegetables,0.6,1500.0,1600.0,1550.0,2019-01-19
+Kerala,Ernakulam,Pumpkin,Ernakulam,Pumpkin,Vegetables,0.35,1000.0,1500.0,1200.0,2019-01-19
+Kerala,Kottayam,Pumpkin,Ettumanoor,Pumpkin,Vegetables,1.3,900.0,1000.0,1000.0,2019-01-19
+Kerala,Alappuzha,Pumpkin,Harippad,Other,Vegetables,1.0,1500.0,1800.0,1500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Pumpkin,Kallachi,Pumpkin,Vegetables,0.4,1200.0,1600.0,1400.0,2019-01-19
+Kerala,Wayanad,Pumpkin,Kalpetta,Other,Vegetables,3.75,900.0,1000.0,1000.0,2019-01-19
+Kerala,Kasargod,Pumpkin,Kanjangadu,Pumpkin,Vegetables,1.5,900.0,1600.0,1200.0,2019-01-19
+Kerala,Kottayam,Pumpkin,Kanjirappally,Pumpkin,Vegetables,1.75,1500.0,2000.0,1800.0,2019-01-19
+Kerala,Kasargod,Pumpkin,Kasargod,Other,Vegetables,3.0,1000.0,1100.0,1050.0,2019-01-19
+Kerala,Alappuzha,Pumpkin,Kayamkulam,Other,Vegetables,1.0,800.0,1000.0,900.0,2019-01-19
+Kerala,Palakad,Pumpkin,Kollengode,Other,Vegetables,1.0,700.0,1000.0,1000.0,2019-01-19
+Kerala,Malappuram,Pumpkin,Kondotty,Other,Vegetables,0.2,1200.0,1400.0,1300.0,2019-01-19
+Kerala,Ernakulam,Pumpkin,Kothamangalam,Other,Vegetables,2.0,1200.0,2000.0,1500.0,2019-01-19
+Kerala,Malappuram,Pumpkin,Kottakkal,Other,Vegetables,2.0,1350.0,1450.0,1400.0,2019-01-19
+Kerala,Malappuram,Pumpkin,Manjeri,Other,Vegetables,4.0,750.0,850.0,800.0,2019-01-19
+Kerala,Kasargod,Pumpkin,Manjeswaram,Pumpkin,Vegetables,3.5,2600.0,3000.0,2800.0,2019-01-19
+Kerala,Ernakulam,Pumpkin,Moovattupuzha,Pumpkin,Vegetables,2.0,1300.0,1550.0,1450.0,2019-01-19
+Kerala,Kozhikode(Calicut),Pumpkin,Mukkom,Pumpkin,Vegetables,0.5,800.0,1200.0,1000.0,2019-01-19
+Kerala,Idukki,Pumpkin,Munnar,Other,Vegetables,0.4,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Kasargod,Pumpkin,Neeleswaram,Other,Vegetables,0.8,2200.0,2600.0,2400.0,2019-01-19
+Kerala,Thiruvananthapuram,Pumpkin,Neyyatinkara,Other,Vegetables,0.2,2300.0,2500.0,2400.0,2019-01-19
+Kerala,Palakad,Pumpkin,Palakkad,Pumpkin,Vegetables,1.0,700.0,1200.0,1000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Pumpkin,Palayam,Other,Vegetables,20.0,500.0,700.0,600.0,2019-01-19
+Kerala,Kottayam,Pumpkin,Pampady,Pumpkin,Vegetables,1.0,3000.0,3400.0,3200.0,2019-01-19
+Kerala,Palakad,Pumpkin,Pattambi,Other,Vegetables,0.5,1000.0,1500.0,1250.0,2019-01-19
+Kerala,Kannur,Pumpkin,Payyannur,Other,Vegetables,0.35,1700.0,1900.0,1800.0,2019-01-19
+Kerala,Malappuram,Pumpkin,Perinthalmanna,Pumpkin,Vegetables,2.1,1700.0,2300.0,2000.0,2019-01-19
+Kerala,Wayanad,Pumpkin,Pulpally,Other,Vegetables,0.1,800.0,1000.0,900.0,2019-01-19
+Kerala,Kozhikode(Calicut),Pumpkin,Quilandy,Other,Vegetables,0.6,900.0,1000.0,1000.0,2019-01-19
+Kerala,Kottayam,Pumpkin,Thalayolaparambu,Pumpkin,Vegetables,0.5,1000.0,1300.0,1200.0,2019-01-19
+Kerala,Kozhikode(Calicut),Pumpkin,Thamarassery,Other,Vegetables,0.3,800.0,1500.0,900.0,2019-01-19
+Kerala,Malappuram,Pumpkin,Thirurrangadi,Other,Vegetables,0.6,1850.0,2150.0,1950.0,2019-01-19
+Kerala,Idukki,Pumpkin,Thodupuzha,Other,Vegetables,1.0,700.0,800.0,800.0,2019-01-19
+Kerala,Ernakulam,Pumpkin,Thrippunithura,Pumpkin,Vegetables,0.8,1800.0,3000.0,2300.0,2019-01-19
+Kerala,Thirssur,Pumpkin,Thrissur,Pumpkin,Vegetables,5.0,500.0,600.0,550.0,2019-01-19
+Kerala,Palakad,Pumpkin,Vadakkenchery,Other,Vegetables,0.23,1000.0,1500.0,1250.0,2019-01-19
+Kerala,Kozhikode(Calicut),Raddish,Palayam,Other,Vegetables,1.0,1700.0,1900.0,1800.0,2019-01-19
+Kerala,Ernakulam,Rice,Ernakulam,Jaya,Cereals,0.35,3200.0,3500.0,3500.0,2019-01-19
+Kerala,Malappuram,Rice,Manjeri,Other,Cereals,290.0,3450.0,3550.0,3500.0,2019-01-19
+Kerala,Malappuram,Rice,Perinthalmanna,Jaya,Cereals,2.9,2500.0,3100.0,2800.0,2019-01-19
+Kerala,Malappuram,Rice,Perinthalmanna,Other,Cereals,2.9,2700.0,3300.0,3000.0,2019-01-19
+Kerala,Idukki,Rice,Thodupuzha,IR-8,Cereals,70.0,2800.0,3000.0,3000.0,2019-01-19
+Kerala,Idukki,Rice,Thodupuzha,Mataa Parboiled,Cereals,70.0,3500.0,3700.0,3700.0,2019-01-19
+Kerala,Kasargod,Ridgeguard(Tori),Kanjangadu,Ridgeguard(Tori),Vegetables,0.65,2500.0,4000.0,3000.0,2019-01-19
+Kerala,Kasargod,Ridgeguard(Tori),Manjeswaram,Ridgeguard(Tori),Vegetables,1.0,3600.0,4600.0,4100.0,2019-01-19
+Kerala,Kasargod,Ridgeguard(Tori),Neeleswaram,Other,Vegetables,0.6,4800.0,5200.0,5000.0,2019-01-19
+Kerala,Idukki,Ridgeguard(Tori),Thodupuzha,Other,Vegetables,0.5,1400.0,1600.0,1600.0,2019-01-19
+Kerala,Kannur,Rubber,Irikkur,Other,Other,0.06,11200.0,11200.0,11200.0,2019-01-19
+Kerala,Wayanad,Rubber,Kalpetta,Other,Other,0.02,11500.0,11600.0,11600.0,2019-01-19
+Kerala,Pathanamthitta,Rubber,Kuttoor,RSS-4,Other,1.0,11500.0,11800.0,11700.0,2019-01-19
+Kerala,Kottayam,Rubber,Pampady,Other,Other,12.0,11200.0,11500.0,11400.0,2019-01-19
+Kerala,Wayanad,Rubber,Pulpally,Other,Other,2.0,11500.0,13500.0,12500.0,2019-01-19
+Kerala,Pathanamthitta,Rubber,Ranniangadi,RSS-4,Other,1.9,12000.0,12200.0,12100.0,2019-01-19
+Kerala,Kannur,Rubber,Taliparamba,Other,Other,0.5,12100.0,12200.0,12150.0,2019-01-19
+Kerala,Idukki,Rubber,Thodupuzha,RSS-4,Other,1.0,12200.0,12300.0,12300.0,2019-01-19
+Kerala,Idukki,Rubber,Thodupuzha,Other,Other,1.0,10200.0,10300.0,10300.0,2019-01-19
+Kerala,Palakad,Rubber,Vadakkenchery,RSS-4,Other,0.52,12000.0,13000.0,12500.0,2019-01-19
+Kerala,Palakad,Rubber,Vadakkenchery,Other,Other,0.52,9000.0,9500.0,9250.0,2019-01-19
+Kerala,Malappuram,Snakeguard,Perinthalmanna,Snakeguard,Vegetables,2.8,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snakeguard,Quilandy,Other,Vegetables,0.4,1700.0,2000.0,1900.0,2019-01-19
+Kerala,Pathanamthitta,Snakeguard,Ranniangadi,Snakeguard,Vegetables,0.8,2500.0,2600.0,2600.0,2019-01-19
+Kerala,Kottayam,Snakeguard,Thalayolaparambu,Snakeguard,Vegetables,0.6,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snakeguard,Thamarassery,Other,Vegetables,0.2,1600.0,2800.0,2000.0,2019-01-19
+Kerala,Idukki,Snakeguard,Thodupuzha,Other,Vegetables,1.0,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Ernakulam,Snakeguard,Thrippunithura,Snakeguard,Vegetables,0.6,2400.0,3500.0,2800.0,2019-01-19
+Kerala,Thirssur,Snakeguard,Thrissur,Snakeguard,Vegetables,5.0,2400.0,2500.0,2450.0,2019-01-19
+Kerala,Ernakulam,Snakeguard,Aluva,Snakeguard,Vegetables,0.5,2000.0,3000.0,2500.0,2019-01-19
+Kerala,Thiruvananthapuram,Snakeguard,Aralamoodu,Snakeguard,Vegetables,0.7,3000.0,3000.0,3000.0,2019-01-19
+Kerala,Thiruvananthapuram,Snakeguard,Chala,Other,Vegetables,3.0,2700.0,2754.0,2722.0,2019-01-19
+Kerala,Thirssur,Snakeguard,Chelakkara,Other,Vegetables,0.2,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Alappuzha,Snakeguard,Cherthala,Other,Vegetables,0.5,3200.0,3400.0,3300.0,2019-01-19
+Kerala,Ernakulam,Snakeguard,Ernakulam,Snakeguard,Vegetables,0.25,1600.0,2300.0,1800.0,2019-01-19
+Kerala,Kottayam,Snakeguard,Ettumanoor,Snakeguard,Vegetables,1.8,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Alappuzha,Snakeguard,Harippad,Other,Vegetables,0.5,2500.0,3000.0,2500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snakeguard,Kallachi,Snakeguard,Vegetables,0.4,2000.0,2400.0,2200.0,2019-01-19
+Kerala,Wayanad,Snakeguard,Kalpetta,Other,Vegetables,0.03,2300.0,2400.0,2400.0,2019-01-19
+Kerala,Kasargod,Snakeguard,Kanjangadu,Snakeguard,Vegetables,0.65,2800.0,3600.0,3200.0,2019-01-19
+Kerala,Kottayam,Snakeguard,Kanjirappally,Snakeguard,Vegetables,1.25,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Alappuzha,Snakeguard,Kayamkulam,Other,Vegetables,1.0,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Palakad,Snakeguard,Kollengode,Other,Vegetables,0.1,1700.0,2050.0,2000.0,2019-01-19
+Kerala,Malappuram,Snakeguard,Kondotty,Other,Vegetables,0.25,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Ernakulam,Snakeguard,Kothamangalam,Other,Vegetables,1.0,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Pathanamthitta,Snakeguard,Kuttoor,Snakeguard,Vegetables,1.2,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Alappuzha,Snakeguard,Madhavapuram,Other,Vegetables,1.8,2200.0,2600.0,2400.0,2019-01-19
+Kerala,Malappuram,Snakeguard,Manjeri,Other,Vegetables,4.0,1100.0,1200.0,1150.0,2019-01-19
+Kerala,Kasargod,Snakeguard,Manjeswaram,Snakeguard,Vegetables,1.0,3200.0,4000.0,3600.0,2019-01-19
+Kerala,Ernakulam,Snakeguard,Moovattupuzha,Snakeguard,Vegetables,1.8,2150.0,2400.0,2250.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snakeguard,Mukkom,Snakeguard,Vegetables,0.5,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Kasargod,Snakeguard,Neeleswaram,Other,Vegetables,0.3,3800.0,4200.0,4000.0,2019-01-19
+Kerala,Thiruvananthapuram,Snakeguard,Neyyatinkara,Other,Vegetables,0.2,2500.0,3000.0,2700.0,2019-01-19
+Kerala,Pathanamthitta,Snakeguard,Omalloor,Snakeguard,Vegetables,0.1,2700.0,2800.0,2800.0,2019-01-19
+Kerala,Palakad,Snakeguard,Palakkad,Snakeguard,Vegetables,0.5,1600.0,2000.0,1900.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snakeguard,Palayam,Other,Vegetables,5.0,1700.0,1900.0,1800.0,2019-01-19
+Kerala,Kottayam,Snakeguard,Pampady,Other,Vegetables,1.0,2500.0,2900.0,2700.0,2019-01-19
+Kerala,Palakad,Snakeguard,Vadakkenchery,Other,Vegetables,0.2,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Palakad,Sweet Potato,Kollengode,Other,Vegetables,0.05,1700.0,2050.0,2000.0,2019-01-19
+Kerala,Kasargod,Sweet Potato,Manjeswaram,Sweet Potato,Vegetables,1.0,2800.0,3600.0,3200.0,2019-01-19
+Kerala,Idukki,Sweet Potato,Munnar,Other,Vegetables,0.1,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Palakad,Sweet Potato,Palakkad,Sweet Potato,Vegetables,0.5,2000.0,2500.0,2300.0,2019-01-19
+Kerala,Palakad,Sweet Potato,Pattambi,Other,Vegetables,0.5,2000.0,2600.0,2400.0,2019-01-19
+Kerala,Malappuram,Sweet Potato,Perinthalmanna,Sweet Potato,Vegetables,2.4,2800.0,3200.0,3000.0,2019-01-19
+Kerala,Palakad,Sweet Potato,Vadakkenchery,Other,Vegetables,0.24,2500.0,3000.0,2750.0,2019-01-19
+Kerala,Idukki,Tapioca,Adimali,Tapioca,Vegetables,0.1,3000.0,3200.0,3100.0,2019-01-19
+Kerala,Ernakulam,Tapioca,Aluva,Tapioca,Vegetables,6.0,1500.0,2500.0,2000.0,2019-01-19
+Kerala,Thiruvananthapuram,Tapioca,Aralamoodu,Tapioca,Vegetables,1.0,2500.0,2500.0,2500.0,2019-01-19
+Kerala,Thirssur,Tapioca,Chelakkara,Other,Vegetables,0.2,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Ernakulam,Tapioca,Ernakulam,Tapioca,Vegetables,0.25,2200.0,2600.0,2400.0,2019-01-19
+Kerala,Kottayam,Tapioca,Ettumanoor,Tapioca,Vegetables,0.5,2100.0,2200.0,2200.0,2019-01-19
+Kerala,Alappuzha,Tapioca,Harippad,Other,Vegetables,1.0,1500.0,2500.0,2000.0,2019-01-19
+Kerala,Kasargod,Tapioca,Kanjangadu,Other,Vegetables,0.6,2100.0,2600.0,2400.0,2019-01-19
+Kerala,Kottayam,Tapioca,Kanjirappally,Tapioca,Vegetables,1.75,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Palakad,Tapioca,Kollengode,Other,Vegetables,0.05,2200.0,2450.0,2400.0,2019-01-19
+Kerala,Malappuram,Tapioca,Kottakkal,Other,Vegetables,3.0,2000.0,2200.0,2150.0,2019-01-19
+Kerala,Pathanamthitta,Tapioca,Kuttoor,Tapioca,Vegetables,1.5,2200.0,2400.0,2300.0,2019-01-19
+Kerala,Alappuzha,Tapioca,Madhavapuram,Other,Vegetables,2.0,3200.0,3500.0,3400.0,2019-01-19
+Kerala,Malappuram,Tapioca,Manjeri,Other,Vegetables,7.0,1800.0,1900.0,1850.0,2019-01-19
+Kerala,Kasargod,Tapioca,Manjeswaram,Other,Vegetables,1.5,3000.0,4000.0,3500.0,2019-01-19
+Kerala,Ernakulam,Tapioca,Moovattupuzha,Tapioca,Vegetables,4.0,2100.0,2400.0,2250.0,2019-01-19
+Kerala,Thiruvananthapuram,Tapioca,Neyyatinkara,Tapioca,Vegetables,0.2,1300.0,1500.0,1400.0,2019-01-19
+Kerala,Pathanamthitta,Tapioca,Omalloor,Tapioca,Vegetables,0.5,2900.0,3000.0,3000.0,2019-01-19
+Kerala,Palakad,Tapioca,Palakkad,Tapioca,Vegetables,0.5,2400.0,3000.0,2800.0,2019-01-19
+Kerala,Kottayam,Tapioca,Pampady,Tapioca,Vegetables,1.0,2500.0,2900.0,2700.0,2019-01-19
+Kerala,Palakad,Tapioca,Pattambi,Other,Vegetables,1.0,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Kannur,Tapioca,Payyannur,Other,Vegetables,0.29,1900.0,2100.0,2000.0,2019-01-19
+Kerala,Malappuram,Tapioca,Perinthalmanna,Tapioca,Vegetables,2.1,2200.0,2800.0,2500.0,2019-01-19
+Kerala,Pathanamthitta,Tapioca,Ranniangadi,Tapioca,Vegetables,2.0,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Kottayam,Tapioca,Thalayolaparambu,Tapioca,Vegetables,0.6,1400.0,1800.0,1600.0,2019-01-19
+Kerala,Idukki,Tapioca,Thodupuzha,Other,Vegetables,0.3,2200.0,2300.0,2300.0,2019-01-19
+Kerala,Thirssur,Tapioca,Thrissur,Tapioca,Vegetables,5.0,1600.0,1800.0,1700.0,2019-01-19
+Kerala,Palakad,Tapioca,Vadakkenchery,Other,Vegetables,0.26,2500.0,3000.0,2750.0,2019-01-19
+Kerala,Ernakulam,Tomato,Aluva,Tomato,Vegetables,10.0,3000.0,4000.0,3500.0,2019-01-19
+Kerala,Thiruvananthapuram,Tomato,Aralamoodu,Tomato,Vegetables,2.5,4000.0,4000.0,4000.0,2019-01-19
+Kerala,Thiruvananthapuram,Tomato,Chala,Other,Vegetables,30.0,4300.0,4350.0,4325.0,2019-01-19
+Kerala,Kollam,Tomato,Chathanoor,Other,Vegetables,0.1,4800.0,5200.0,5000.0,2019-01-19
+Kerala,Thirssur,Tomato,Chelakkara,Other,Vegetables,0.2,2400.0,2500.0,2500.0,2019-01-19
+Kerala,Ernakulam,Tomato,Ernakulam,Tomato,Vegetables,0.35,3600.0,4200.0,4000.0,2019-01-19
+Kerala,Kottayam,Tomato,Ettumanoor,Tomato,Vegetables,2.5,3500.0,3700.0,3600.0,2019-01-19
+Kerala,Alappuzha,Tomato,Harippad,Other,Vegetables,0.5,3500.0,5000.0,4000.0,2019-01-19
+Kerala,Kasargod,Tomato,Kanjangadu,Tomato,Vegetables,2.0,2700.0,3200.0,3000.0,2019-01-19
+Kerala,Kottayam,Tomato,Kanjirappally,Tomato,Vegetables,1.75,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Alappuzha,Tomato,Kayamkulam,Other,Vegetables,1.0,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Palakad,Tomato,Kollengode,Other,Vegetables,1.5,1700.0,2050.0,2000.0,2019-01-19
+Kerala,Malappuram,Tomato,Kondotty,Other,Vegetables,3.0,3000.0,3200.0,3100.0,2019-01-19
+Kerala,Ernakulam,Tomato,Kothamangalam,Other,Vegetables,3.0,4000.0,4500.0,4200.0,2019-01-19
+Kerala,Malappuram,Tomato,Kottakkal,Other,Vegetables,3.0,2000.0,2200.0,2150.0,2019-01-19
+Kerala,Malappuram,Tomato,Manjeri,Other,Vegetables,7.0,3000.0,3100.0,3050.0,2019-01-19
+Kerala,Kasargod,Tomato,Manjeswaram,Tomato,Vegetables,12.0,3000.0,3600.0,3300.0,2019-01-19
+Kerala,Ernakulam,Tomato,Moovattupuzha,Tomato,Vegetables,0.6,3300.0,3600.0,3450.0,2019-01-19
+Kerala,Kozhikode(Calicut),Tomato,Mukkom,Tomato,Vegetables,0.5,1400.0,1800.0,1600.0,2019-01-19
+Kerala,Idukki,Tomato,Munnar,Other,Vegetables,0.9,4500.0,6000.0,5000.0,2019-01-19
+Kerala,Thiruvananthapuram,Tomato,Neyyatinkara,Tomato,Vegetables,0.2,4300.0,4500.0,4400.0,2019-01-19
+Kerala,Palakad,Tomato,Palakkad,Tomato,Vegetables,3.0,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Kozhikode(Calicut),Tomato,Palayam,Other,Vegetables,50.0,2270.0,2370.0,2320.0,2019-01-19
+Kerala,Kottayam,Tomato,Pampady,Other,Vegetables,1.0,4500.0,4900.0,4700.0,2019-01-19
+Kerala,Palakad,Tomato,Pattambi,Other,Vegetables,2.0,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Kozhikode(Calicut),Tomato,Perambra,Tomato,Vegetables,2.0,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Malappuram,Tomato,Perinthalmanna,Tomato,Vegetables,2.4,2600.0,3400.0,3000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Tomato,Quilandy,Other,Vegetables,1.2,2700.0,2800.0,2700.0,2019-01-19
+Kerala,Kottayam,Tomato,Thalayolaparambu,Tomato,Vegetables,0.6,3600.0,4200.0,4000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Tomato,Thamarassery,Other,Vegetables,0.7,1900.0,2800.0,2000.0,2019-01-19
+Kerala,Ernakulam,Tomato,Thrippunithura,Tomato,Vegetables,1.0,4000.0,5000.0,4400.0,2019-01-19
+Kerala,Thirssur,Tomato,Thrissur,Tomato,Vegetables,8.0,2700.0,2800.0,2750.0,2019-01-19
+Kerala,Palakad,Tomato,Vadakkenchery,Other,Vegetables,0.22,3500.0,4000.0,3750.0,2019-01-19
+Kerala,Ernakulam,Turmeric,Moovattupuzha,Dry,Spices,0.5,8650.0,9250.0,8900.0,2019-01-19
+Kerala,Idukki,Turmeric,Thodupuzha,Dry,Spices,0.01,11000.0,11500.0,11500.0,2019-01-19
+Kerala,Idukki,Turmeric,Thodupuzha,Other,Spices,0.01,2000.0,2200.0,2200.0,2019-01-19
+Kerala,Malappuram,Water Melon,Kottakkal,Other,Fruits,2.0,1350.0,1450.0,1400.0,2019-01-19
+Kerala,Malappuram,Water Melon,Manjeri,Other,Fruits,5.0,800.0,900.0,850.0,2019-01-19
+Kerala,Idukki,Water Melon,Munnar,Other,Fruits,0.2,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Malappuram,Water Melon,Perinthalmanna,Water Melon,Fruits,2.8,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Idukki,White Peas,Munnar,Other,Pulses,0.3,3500.0,4500.0,4000.0,2019-01-19
+Kerala,Wayanad,Yam (Ratalu),Kalpetta,Other,Vegetables,85.0,1400.0,1500.0,1500.0,2019-01-19
+Kerala,Kottayam,Yam (Ratalu),Thalayolaparambu,Other,Vegetables,0.2,1800.0,2300.0,2000.0,2019-01-19
+Kerala,Pathanamthitta,Yam,Omalloor,Yam,Other,0.1,3900.0,4000.0,4000.0,2019-01-19
+Kerala,Alappuzha,Potato,Alappuzha,Other,Vegetables,5.0,2000.0,2200.0,2100.0,2019-01-19
+Kerala,Ernakulam,Potato,Aluva,Potato,Vegetables,6.0,2200.0,3000.0,2600.0,2019-01-19
+Kerala,Thiruvananthapuram,Potato,Aralamoodu,Potato,Vegetables,2.0,2500.0,3000.0,3000.0,2019-01-19
+Kerala,Thiruvananthapuram,Potato,Chala,Other,Vegetables,3.0,2700.0,2754.0,2720.0,2019-01-19
+Kerala,Thirssur,Potato,Chelakkara,Other,Vegetables,0.2,3400.0,3500.0,3500.0,2019-01-19
+Kerala,Ernakulam,Potato,Ernakulam,Potato,Vegetables,0.35,1900.0,2500.0,2200.0,2019-01-19
+Kerala,Kottayam,Potato,Ettumanoor,Potato,Vegetables,2.8,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Alappuzha,Potato,Harippad,Other,Vegetables,1.0,2500.0,3000.0,2500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Potato,Kallachi,Other,Vegetables,0.4,3800.0,4200.0,4000.0,2019-01-19
+Kerala,Kasargod,Potato,Kanjangadu,Potato,Vegetables,1.0,1600.0,2600.0,2200.0,2019-01-19
+Kerala,Kottayam,Potato,Kanjirappally,Potato,Vegetables,1.75,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Alappuzha,Potato,Kayamkulam,Other,Vegetables,2.0,2100.0,2300.0,2200.0,2019-01-19
+Kerala,Palakad,Potato,Kollengode,Other,Vegetables,2.0,2800.0,3060.0,3000.0,2019-01-19
+Kerala,Malappuram,Potato,Kondotty,Other,Vegetables,0.25,2000.0,2400.0,2200.0,2019-01-19
+Kerala,Ernakulam,Potato,Kothamangalam,Other,Vegetables,4.0,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Malappuram,Potato,Kottakkal,Other,Vegetables,4.0,2000.0,2150.0,2100.0,2019-01-19
+Kerala,Alappuzha,Potato,Madhavapuram,Other,Vegetables,2.5,2400.0,2700.0,2600.0,2019-01-19
+Kerala,Malappuram,Potato,Manjeri,Other,Vegetables,6.0,2300.0,2400.0,2350.0,2019-01-19
+Kerala,Kasargod,Potato,Manjeswaram,Other,Vegetables,8.0,1800.0,2600.0,2200.0,2019-01-19
+Kerala,Ernakulam,Potato,Moovattupuzha,Big,Vegetables,2.0,2300.0,2550.0,2450.0,2019-01-19
+Kerala,Kozhikode(Calicut),Potato,Mukkom,Other,Vegetables,0.5,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Idukki,Potato,Munnar,Other,Vegetables,0.8,3200.0,3800.0,3500.0,2019-01-19
+Kerala,Kasargod,Potato,Neeleswaram,Other,Vegetables,1.0,2600.0,3000.0,2800.0,2019-01-19
+Kerala,Palakad,Potato,Palakkad,Potato,Vegetables,1.0,2200.0,2600.0,2500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Potato,Palayam,Other,Vegetables,50.0,1900.0,2100.0,2000.0,2019-01-19
+Kerala,Kottayam,Potato,Pampady,Other,Vegetables,1.0,2000.0,2400.0,2200.0,2019-01-19
+Kerala,Palakad,Potato,Pattambi,Other,Vegetables,1.0,2000.0,2600.0,2400.0,2019-01-19
+Kerala,Malappuram,Potato,Perinthalmanna,Potato,Vegetables,2.9,2800.0,3200.0,3000.0,2019-01-19
+Kerala,Kottayam,Potato,Thalayolaparambu,Other,Vegetables,0.8,2000.0,2500.0,2300.0,2019-01-19
+Kerala,Kozhikode(Calicut),Potato,Thamarassery,Other,Vegetables,0.4,2100.0,3000.0,2300.0,2019-01-19
+Kerala,Idukki,Potato,Thodupuzha,Other,Vegetables,5.0,2600.0,2800.0,2800.0,2019-01-19
+Kerala,Ernakulam,Potato,Thrippunithura,Potato,Vegetables,1.0,2800.0,3400.0,3000.0,2019-01-19
+Kerala,Thirssur,Potato,Thrissur,Potato,Vegetables,10.0,2800.0,3000.0,2900.0,2019-01-19
+Kerala,Palakad,Potato,Vadakkenchery,Other,Vegetables,0.26,2300.0,2800.0,2550.0,2019-01-19
+Kerala,Kasargod,Ridge gourd(Tori),Kanjangadu,Ridgeguard(Tori),Vegetables,0.65,2500.0,4000.0,3000.0,2019-01-19
+Kerala,Kasargod,Ridge gourd(Tori),Manjeswaram,Ridgeguard(Tori),Vegetables,1.0,3600.0,4600.0,4100.0,2019-01-19
+Kerala,Kasargod,Ridge gourd(Tori),Neeleswaram,Other,Vegetables,0.6,4800.0,5200.0,5000.0,2019-01-19
+Kerala,Idukki,Ridge gourd(Tori),Thodupuzha,Other,Vegetables,0.5,1400.0,1600.0,1600.0,2019-01-19
+Kerala,Ernakulam,Snake gourd,Aluva,Snakeguard,Vegetables,0.5,2000.0,3000.0,2500.0,2019-01-19
+Kerala,Thiruvananthapuram,Snake gourd,Aralamoodu,Snakeguard,Vegetables,0.7,3000.0,3000.0,3000.0,2019-01-19
+Kerala,Thiruvananthapuram,Snake gourd,Chala,Other,Vegetables,3.0,2700.0,2754.0,2722.0,2019-01-19
+Kerala,Thirssur,Snake gourd,Chelakkara,Other,Vegetables,0.2,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Alappuzha,Snake gourd,Cherthala,Other,Vegetables,0.5,3200.0,3400.0,3300.0,2019-01-19
+Kerala,Ernakulam,Snake gourd,Ernakulam,Snakeguard,Vegetables,0.25,1600.0,2300.0,1800.0,2019-01-19
+Kerala,Kottayam,Snake gourd,Ettumanoor,Snakeguard,Vegetables,1.8,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Alappuzha,Snake gourd,Harippad,Other,Vegetables,0.5,2500.0,3000.0,2500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snake gourd,Kallachi,Snakeguard,Vegetables,0.4,2000.0,2400.0,2200.0,2019-01-19
+Kerala,Wayanad,Snake gourd,Kalpetta,Other,Vegetables,0.03,2300.0,2400.0,2400.0,2019-01-19
+Kerala,Kasargod,Snake gourd,Kanjangadu,Snakeguard,Vegetables,0.65,2800.0,3600.0,3200.0,2019-01-19
+Kerala,Kottayam,Snake gourd,Kanjirappally,Snakeguard,Vegetables,1.25,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Alappuzha,Snake gourd,Kayamkulam,Other,Vegetables,1.0,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Palakad,Snake gourd,Kollengode,Other,Vegetables,0.1,1700.0,2050.0,2000.0,2019-01-19
+Kerala,Malappuram,Snake gourd,Kondotty,Other,Vegetables,0.25,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Ernakulam,Snake gourd,Kothamangalam,Other,Vegetables,1.0,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Pathanamthitta,Snake gourd,Kuttoor,Snakeguard,Vegetables,1.2,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Alappuzha,Snake gourd,Madhavapuram,Other,Vegetables,1.8,2200.0,2600.0,2400.0,2019-01-19
+Kerala,Malappuram,Snake gourd,Manjeri,Other,Vegetables,4.0,1100.0,1200.0,1150.0,2019-01-19
+Kerala,Kasargod,Snake gourd,Manjeswaram,Snakeguard,Vegetables,1.0,3200.0,4000.0,3600.0,2019-01-19
+Kerala,Ernakulam,Snake gourd,Moovattupuzha,Snakeguard,Vegetables,1.8,2150.0,2400.0,2250.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snake gourd,Mukkom,Snakeguard,Vegetables,0.5,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Kasargod,Snake gourd,Neeleswaram,Other,Vegetables,0.3,3800.0,4200.0,4000.0,2019-01-19
+Kerala,Thiruvananthapuram,Snake gourd,Neyyatinkara,Other,Vegetables,0.2,2500.0,3000.0,2700.0,2019-01-19
+Kerala,Pathanamthitta,Snake gourd,Omalloor,Snakeguard,Vegetables,0.1,2700.0,2800.0,2800.0,2019-01-19
+Kerala,Palakad,Snake gourd,Palakkad,Snakeguard,Vegetables,0.5,1600.0,2000.0,1900.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snake gourd,Palayam,Other,Vegetables,5.0,1700.0,1900.0,1800.0,2019-01-19
+Kerala,Kottayam,Snake gourd,Pampady,Other,Vegetables,1.0,2500.0,2900.0,2700.0,2019-01-19
+Kerala,Malappuram,Snake gourd,Perinthalmanna,Snakeguard,Vegetables,2.8,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snake gourd,Quilandy,Other,Vegetables,0.4,1700.0,2000.0,1900.0,2019-01-19
+Kerala,Pathanamthitta,Snake gourd,Ranniangadi,Snakeguard,Vegetables,0.8,2500.0,2600.0,2600.0,2019-01-19
+Kerala,Kottayam,Snake gourd,Thalayolaparambu,Snakeguard,Vegetables,0.6,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Snake gourd,Thamarassery,Other,Vegetables,0.2,1600.0,2800.0,2000.0,2019-01-19
+Kerala,Idukki,Snake gourd,Thodupuzha,Other,Vegetables,1.0,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Ernakulam,Snake gourd,Thrippunithura,Snakeguard,Vegetables,0.6,2400.0,3500.0,2800.0,2019-01-19
+Kerala,Thirssur,Snake gourd,Thrissur,Snakeguard,Vegetables,5.0,2400.0,2500.0,2450.0,2019-01-19
+Kerala,Palakad,Snake gourd,Vadakkenchery,Other,Vegetables,0.2,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Ernakulam,Amaranthus,Aluva,Amaranthus,Vegetables,0.6,2000.0,3000.0,2500.0,2019-01-19
+Kerala,Thiruvananthapuram,Amaranthus,Anyara(EEC),Amaranthus,Vegetables,0.85,2200.0,2500.0,2300.0,2019-01-19
+Kerala,Thiruvananthapuram,Amaranthus,Aralamoodu,Amaranthus,Vegetables,0.4,3000.0,3000.0,3000.0,2019-01-19
+Kerala,Thiruvananthapuram,Amaranthus,Chala,Amaranthus,Vegetables,3.0,3800.0,3850.0,3825.0,2019-01-19
+Kerala,Thirssur,Amaranthus,Chalakudy,Other,Vegetables,0.1,2000.0,2200.0,2100.0,2019-01-19
+Kerala,Thirssur,Amaranthus,Chelakkara,Other,Vegetables,0.18,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Ernakulam,Amaranthus,Ernakulam,Amaranthus,Vegetables,0.35,1200.0,1700.0,1500.0,2019-01-19
+Kerala,Alappuzha,Amaranthus,Harippad,Other,Vegetables,0.5,2000.0,2500.0,2500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amaranthus,Kallachi,Amaranthus,Vegetables,0.4,2200.0,2600.0,2400.0,2019-01-19
+Kerala,Kasargod,Amaranthus,Kanjangadu,Other,Vegetables,0.25,3000.0,4000.0,3500.0,2019-01-19
+Kerala,Kasargod,Amaranthus,Kasargod,Other,Vegetables,0.7,1600.0,1700.0,1650.0,2019-01-19
+Kerala,Alappuzha,Amaranthus,Kayamkulam,Other,Vegetables,1.0,2500.0,2700.0,2600.0,2019-01-19
+Kerala,Palakad,Amaranthus,Kollengode,Other,Vegetables,0.01,1600.0,2050.0,2000.0,2019-01-19
+Kerala,Malappuram,Amaranthus,Kondotty,Other,Vegetables,0.2,2000.0,2200.0,2100.0,2019-01-19
+Kerala,Ernakulam,Amaranthus,Kothamangalam,Other,Vegetables,1.0,2000.0,2500.0,2200.0,2019-01-19
+Kerala,Malappuram,Amaranthus,Kottakkal,Other,Vegetables,1.0,1700.0,1800.0,1750.0,2019-01-19
+Kerala,Pathanamthitta,Amaranthus,Kuttoor,Amaranthus,Vegetables,1.0,2200.0,2400.0,2300.0,2019-01-19
+Kerala,Alappuzha,Amaranthus,Madhavapuram,Other,Vegetables,2.0,2500.0,2800.0,2700.0,2019-01-19
+Kerala,Malappuram,Amaranthus,Manjeri,Other,Vegetables,3.0,1250.0,1350.0,1300.0,2019-01-19
+Kerala,Kasargod,Amaranthus,Manjeswaram,Amaranthus,Vegetables,1.0,2000.0,3000.0,2500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amaranthus,Mukkom,Amaranthus,Vegetables,0.5,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Kasargod,Amaranthus,Neeleswaram,Other,Vegetables,0.3,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Thiruvananthapuram,Amaranthus,Neyyatinkara,Amaranthus,Vegetables,0.2,4300.0,4500.0,4400.0,2019-01-19
+Kerala,Pathanamthitta,Amaranthus,Omalloor,Amaranthus,Vegetables,0.03,2900.0,3000.0,3000.0,2019-01-19
+Kerala,Palakad,Amaranthus,Palakkad,Amaranthus,Vegetables,1.0,2000.0,3000.0,2600.0,2019-01-19
+Kerala,Palakad,Amaranthus,Palakkad,Other,Vegetables,1.0,2000.0,3000.0,2600.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amaranthus,Palayam,Other,Vegetables,5.0,2100.0,2300.0,2200.0,2019-01-19
+Kerala,Kottayam,Amaranthus,Pampady,Amaranthus,Vegetables,1.0,4000.0,4400.0,4200.0,2019-01-19
+Kerala,Pathanamthitta,Amaranthus,Parakkodu,Other,Vegetables,2.0,2500.0,3000.0,3000.0,2019-01-19
+Kerala,Malappuram,Amaranthus,Parappanangadi,Other,Vegetables,1.0,1850.0,2100.0,1950.0,2019-01-19
+Kerala,Palakad,Amaranthus,Pattambi,Other,Vegetables,0.1,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Kannur,Amaranthus,Payyannur,Other,Vegetables,0.6,2900.0,3100.0,3000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amaranthus,Perambra,Amaranthus,Vegetables,0.2,2900.0,3100.0,3000.0,2019-01-19
+Kerala,Ernakulam,Amaranthus,Piravam,Other,Vegetables,0.03,2000.0,2500.0,2200.0,2019-01-19
+Kerala,Wayanad,Amaranthus,Pulpally,Other,Vegetables,0.1,1400.0,1600.0,1500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amaranthus,Quilandy,Other,Vegetables,0.08,2400.0,2500.0,2500.0,2019-01-19
+Kerala,Pathanamthitta,Amaranthus,Ranniangadi,Amaranthus,Vegetables,0.35,1800.0,1900.0,1800.0,2019-01-19
+Kerala,Kottayam,Amaranthus,Thalayolaparambu,Amaranthus,Vegetables,0.8,1800.0,2300.0,2000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amaranthus,Thamarassery,Other,Vegetables,0.02,1700.0,2500.0,1900.0,2019-01-19
+Kerala,Malappuram,Amaranthus,Thirurrangadi,Other,Vegetables,0.03,1800.0,2100.0,1900.0,2019-01-19
+Kerala,Idukki,Amaranthus,Thodupuzha,Other,Vegetables,0.5,1600.0,1800.0,1800.0,2019-01-19
+Kerala,Thirssur,Amaranthus,Thrissur,Amaranthus,Vegetables,3.0,1200.0,1500.0,1350.0,2019-01-19
+Kerala,Palakad,Amaranthus,Vadakkenchery,Other,Vegetables,0.07,1500.0,2000.0,1750.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amaranthus,Vengeri(Kozhikode),Amaranthus,Vegetables,0.35,2100.0,2300.0,2200.0,2019-01-19
+Kerala,Malappuram,Amla(Nelli Kai),Kondotty,Other,Fruits,0.25,3400.0,3600.0,3500.0,2019-01-19
+Kerala,Malappuram,Amla(Nelli Kai),Kottakkal,Other,Fruits,3.0,2900.0,3000.0,2950.0,2019-01-19
+Kerala,Malappuram,Amla(Nelli Kai),Parappanangadi,Other,Fruits,1.0,4000.0,4350.0,4200.0,2019-01-19
+Kerala,Malappuram,Amla(Nelli Kai),Perinthalmanna,Amla,Fruits,2.8,2600.0,3400.0,3000.0,2019-01-19
+Kerala,Malappuram,Amla(Nelli Kai),Thirurrangadi,Amla,Fruits,0.4,3800.0,4200.0,4000.0,2019-01-19
+Kerala,Idukki,Amphophalus,Adimali,Amphophalus,Cereals,0.1,2500.0,2700.0,2600.0,2019-01-19
+Kerala,Alappuzha,Amphophalus,Alappuzha,Other,Cereals,1.0,2800.0,3000.0,2900.0,2019-01-19
+Kerala,Thiruvananthapuram,Amphophalus,Aralamoodu,Amphophalus,Cereals,1.5,3000.0,3000.0,3000.0,2019-01-19
+Kerala,Ernakulam,Amphophalus,Ernakulam,Amphophalus,Cereals,0.25,1600.0,2300.0,1800.0,2019-01-19
+Kerala,Alappuzha,Amphophalus,Harippad,Other,Cereals,2.0,4000.0,4500.0,4000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amphophalus,Kallachi,Amphophalus,Cereals,0.4,2600.0,3000.0,2800.0,2019-01-19
+Kerala,Kottayam,Amphophalus,Kanjirappally,Other,Cereals,1.25,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Alappuzha,Amphophalus,Kayamkulam,Other,Cereals,2.0,1900.0,2100.0,2000.0,2019-01-19
+Kerala,Ernakulam,Amphophalus,Keezhampara,Amphophalus,Cereals,0.05,1600.0,1800.0,1700.0,2019-01-19
+Kerala,Malappuram,Amphophalus,Kondotty,Other,Cereals,0.25,2600.0,2800.0,2700.0,2019-01-19
+Kerala,Malappuram,Amphophalus,Kottakkal,Other,Cereals,3.0,1900.0,2000.0,1950.0,2019-01-19
+Kerala,Alappuzha,Amphophalus,Madhavapuram,Other,Cereals,2.5,3400.0,3700.0,3600.0,2019-01-19
+Kerala,Ernakulam,Amphophalus,Moovattupuzha,Other,Cereals,4.0,2650.0,2900.0,2800.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amphophalus,Mukkom,Amphophalus,Cereals,0.8,2600.0,3000.0,2800.0,2019-01-19
+Kerala,Kasargod,Amphophalus,Neeleswaram,Other,Cereals,1.0,3800.0,4200.0,4000.0,2019-01-19
+Kerala,Thiruvananthapuram,Amphophalus,Neyyatinkara,Amphophalus,Cereals,0.2,2300.0,2500.0,2400.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amphophalus,Palayam,Other,Cereals,10.0,1900.0,2100.0,2000.0,2019-01-19
+Kerala,Malappuram,Amphophalus,Parappanangadi,Other,Cereals,1.5,2850.0,3150.0,2950.0,2019-01-19
+Kerala,Malappuram,Amphophalus,Perinthalmanna,Amphophalus,Cereals,2.3,2800.0,3200.0,3000.0,2019-01-19
+Kerala,Ernakulam,Amphophalus,Piravam,Other,Cereals,0.05,2000.0,3000.0,2500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amphophalus,Quilandy,Other,Cereals,0.6,2200.0,2500.0,2300.0,2019-01-19
+Kerala,Kozhikode(Calicut),Amphophalus,Thamarassery,Other,Cereals,0.15,1900.0,3000.0,2300.0,2019-01-19
+Kerala,Malappuram,Amphophalus,Thirurrangadi,Amphophalus,Cereals,0.5,1650.0,1850.0,1750.0,2019-01-19
+Kerala,Idukki,Amphophalus,Thodupuzha,Other,Cereals,0.5,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Ernakulam,Amphophalus,Thrippunithura,Amphophalus,Cereals,0.7,3000.0,4000.0,3400.0,2019-01-19
+Kerala,Idukki,Apple,Adimali,American,Fruits,0.1,10000.0,13000.0,12000.0,2019-01-19
+Kerala,Idukki,Apple,Adimali,Apple,Fruits,0.1,10000.0,13000.0,12000.0,2019-01-19
+Kerala,Thiruvananthapuram,Apple,Chala,Other,Fruits,2.0,11000.0,11150.0,11050.0,2019-01-19
+Kerala,Thiruvananthapuram,Apple,Chala,Other,Fruits,2.0,9000.0,9150.0,9050.0,2019-01-19
+Kerala,Malappuram,Apple,Kondotty,Other,Fruits,0.25,9000.0,9200.0,9100.0,2019-01-19
+Kerala,Malappuram,Apple,Kottakkal,Other,Fruits,2.0,8400.0,8500.0,8450.0,2019-01-19
+Kerala,Malappuram,Apple,Manjeri,Other,Fruits,7.0,7300.0,7400.0,7350.0,2019-01-19
+Kerala,Kozhikode(Calicut),Apple,Mukkom,Other,Fruits,0.8,10000.0,11000.0,10500.0,2019-01-19
+Kerala,Malappuram,Apple,Parappanangadi,Other,Fruits,0.3,10400.0,10600.0,10500.0,2019-01-19
+Kerala,Malappuram,Apple,Perinthalmanna,Apple,Fruits,2.4,12600.0,13400.0,13000.0,2019-01-19
+Kerala,Malappuram,Apple,Thirurrangadi,Other,Fruits,0.3,9500.0,9750.0,9650.0,2019-01-19
+Kerala,Idukki,Apple,Thodupuzha,Other,Fruits,1.0,6500.0,8000.0,7500.0,2019-01-19
+Kerala,Idukki,Arecanut(Betelnut/Supari),Adimali,Other,Drug and Narcotics,0.1,19000.0,21000.0,20000.0,2019-01-19
+Kerala,Kannur,Arecanut(Betelnut/Supari),Irikkur,Other,Drug and Narcotics,0.03,21500.0,21500.0,21500.0,2019-01-19
+Kerala,Kasargod,Arecanut(Betelnut/Supari),Kanjangadu,Other,Drug and Narcotics,2.0,23800.0,24200.0,24000.0,2019-01-19
+Kerala,Kasargod,Arecanut(Betelnut/Supari),Kasargod,Other,Drug and Narcotics,0.8,21500.0,22000.0,21800.0,2019-01-19
+Kerala,Ernakulam,Arecanut(Betelnut/Supari),Kothamangalam,Other,Drug and Narcotics,1.0,22000.0,23000.0,22500.0,2019-01-19
+Kerala,Kannur,Arecanut(Betelnut/Supari),Kuthuparambu,Other,Drug and Narcotics,3.0,20000.0,24000.0,23000.0,2019-01-19
+Kerala,Kasargod,Arecanut(Betelnut/Supari),Manjeswaram,Other,Drug and Narcotics,15.0,23500.0,23600.0,23550.0,2019-01-19
+Kerala,Kasargod,Arecanut(Betelnut/Supari),Neeleswaram,Other,Drug and Narcotics,2.0,20500.0,21500.0,21000.0,2019-01-19
+Kerala,Kannur,Arecanut(Betelnut/Supari),Payyannur,Other,Drug and Narcotics,0.46,21500.0,23500.0,22500.0,2019-01-19
+Kerala,Kannur,Arecanut(Betelnut/Supari),Taliparamba,Other,Drug and Narcotics,1.8,21500.0,22000.0,21750.0,2019-01-19
+Kerala,Idukki,Arecanut(Betelnut/Supari),Thodupuzha,Other,Drug and Narcotics,0.1,19000.0,20000.0,19500.0,2019-01-19
+Kerala,Thirssur,Arecanut(Betelnut/Supari),Thrissur,Other,Drug and Narcotics,0.03,23000.0,23500.0,23300.0,2019-01-19
+Kerala,Palakad,Arhar (Tur/Red Gram)(Whole),Kollengode,Arhar Dal(Tur),Pulses,0.15,6490.0,6560.0,6500.0,2019-01-19
+Kerala,Kasargod,Arhar (Tur/Red Gram)(Whole),Neeleswaram,Other,Pulses,2.0,7800.0,8200.0,8000.0,2019-01-19
+Kerala,Palakad,Arhar (Tur/Red Gram)(Whole),Palakkad,Arhar Dal(Tur),Pulses,1.0,8000.0,8500.0,8300.0,2019-01-19
+Kerala,Malappuram,Arhar (Tur/Red Gram)(Whole),Perinthalmanna,Other,Pulses,2.1,9200.0,9800.0,9500.0,2019-01-19
+Kerala,Palakad,Arhar (Tur/Red Gram)(Whole),Vadakkenchery,Arhar Dal(Tur),Pulses,0.2,8000.0,8500.0,8250.0,2019-01-19
+Kerala,Idukki,Ashgourd,Adimali,Ashgourd,Vegetables,0.1,1500.0,1700.0,1600.0,2019-01-19
+Kerala,Ernakulam,Ashgourd,Aluva,Ashgourd,Vegetables,3.0,1200.0,2000.0,1600.0,2019-01-19
+Kerala,Alappuzha,Ashgourd,Aroor,Other,Vegetables,0.1,1200.0,1500.0,1300.0,2019-01-19
+Kerala,Thiruvananthapuram,Ashgourd,Chala,Other,Vegetables,3.0,2300.0,2351.0,2320.0,2019-01-19
+Kerala,Thirssur,Ashgourd,Chalakudy,Other,Vegetables,1.0,1200.0,1300.0,1300.0,2019-01-19
+Kerala,Thirssur,Ashgourd,Chelakkara,Other,Vegetables,0.28,1600.0,1800.0,1700.0,2019-01-19
+Kerala,Alappuzha,Ashgourd,Cherthala,Other,Vegetables,0.5,1650.0,1750.0,1700.0,2019-01-19
+Kerala,Ernakulam,Ashgourd,Ernakulam,Ashgourd,Vegetables,0.35,1000.0,1500.0,1300.0,2019-01-19
+Kerala,Kottayam,Ashgourd,Ettumanoor,Other,Vegetables,0.7,1500.0,1700.0,1600.0,2019-01-19
+Kerala,Alappuzha,Ashgourd,Harippad,Other,Vegetables,1.0,1000.0,1200.0,1200.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ashgourd,Kallachi,Ashgourd,Vegetables,0.4,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Wayanad,Ashgourd,Kalpetta,Other,Vegetables,3.5,900.0,1000.0,1000.0,2019-01-19
+Kerala,Kasargod,Ashgourd,Kanjangadu,Ashgourd,Vegetables,0.65,1800.0,2600.0,2200.0,2019-01-19
+Kerala,Alappuzha,Ashgourd,Kayamkulam,Other,Vegetables,1.0,800.0,1000.0,900.0,2019-01-19
+Kerala,Palakad,Ashgourd,Kollengode,Other,Vegetables,1.0,700.0,1000.0,1000.0,2019-01-19
+Kerala,Malappuram,Ashgourd,Kondotty,Other,Vegetables,0.25,1200.0,1400.0,1300.0,2019-01-19
+Kerala,Ernakulam,Ashgourd,Kothamangalam,Other,Vegetables,1.0,1200.0,1800.0,1500.0,2019-01-19
+Kerala,Malappuram,Ashgourd,Kottakkal,Other,Vegetables,4.0,1350.0,1450.0,1400.0,2019-01-19
+Kerala,Pathanamthitta,Ashgourd,Kuttoor,Ashgourd,Vegetables,0.9,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Alappuzha,Ashgourd,Madhavapuram,Other,Vegetables,2.0,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Malappuram,Ashgourd,Manjeri,Other,Vegetables,4.0,750.0,850.0,800.0,2019-01-19
+Kerala,Kasargod,Ashgourd,Manjeswaram,Ashgourd,Vegetables,7.0,2400.0,3000.0,2700.0,2019-01-19
+Kerala,Ernakulam,Ashgourd,Moovattupuzha,Other,Vegetables,3.0,1100.0,1350.0,1250.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ashgourd,Mukkom,Other,Vegetables,0.5,1000.0,1400.0,1200.0,2019-01-19
+Kerala,Palakad,Ashgourd,Palakkad,Ashgourd,Vegetables,1.0,1000.0,1500.0,1300.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ashgourd,Palayam,Other,Vegetables,20.0,1100.0,1300.0,1200.0,2019-01-19
+Kerala,Kottayam,Ashgourd,Pampady,Other,Vegetables,1.0,1500.0,1900.0,1700.0,2019-01-19
+Kerala,Malappuram,Ashgourd,Parappanangadi,Other,Vegetables,1.0,1850.0,2100.0,1950.0,2019-01-19
+Kerala,Palakad,Ashgourd,Pattambi,Other,Vegetables,2.0,1500.0,2000.0,1800.0,2019-01-19
+Kerala,Kannur,Ashgourd,Payyannur,Other,Vegetables,0.38,2100.0,2300.0,2200.0,2019-01-19
+Kerala,Malappuram,Ashgourd,Perinthalmanna,Ashgourd,Vegetables,2.5,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Ernakulam,Ashgourd,Piravam,Other,Vegetables,0.05,2000.0,2500.0,2200.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ashgourd,Quilandy,Other,Vegetables,0.6,1200.0,1400.0,1300.0,2019-01-19
+Kerala,Pathanamthitta,Ashgourd,Ranniangadi,Ashgourd,Vegetables,0.7,1500.0,1600.0,1500.0,2019-01-19
+Kerala,Kottayam,Ashgourd,Thalayolaparambu,Ashgourd,Vegetables,0.7,1000.0,1400.0,1200.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ashgourd,Thamarassery,Other,Vegetables,0.4,1200.0,1800.0,1500.0,2019-01-19
+Kerala,Malappuram,Ashgourd,Thirurrangadi,Ashgourd,Vegetables,0.5,1950.0,2200.0,2100.0,2019-01-19
+Kerala,Idukki,Ashgourd,Thodupuzha,Other,Vegetables,1.0,900.0,1000.0,1000.0,2019-01-19
+Kerala,Ernakulam,Ashgourd,Thrippunithura,Ashgourd,Vegetables,0.6,2000.0,3000.0,2400.0,2019-01-19
+Kerala,Thirssur,Ashgourd,Thrissur,Ashgourd,Vegetables,11.0,900.0,1000.0,950.0,2019-01-19
+Kerala,Palakad,Ashgourd,Vadakkenchery,Other,Vegetables,0.25,1300.0,1800.0,1550.0,2019-01-19
+Kerala,Kozhikode(Calicut),Ashgourd,Vengeri(Kozhikode),Ashgourd,Vegetables,0.35,2000.0,2200.0,2100.0,2019-01-19
+Kerala,Kollam,Banana,Chathanoor,Palayamthodan,Fruits,2.4,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Idukki,Banana,Adimali,Nendra Bale,Fruits,0.1,5500.0,5700.0,5600.0,2019-01-19
+Kerala,Idukki,Banana,Adimali,Robusta,Fruits,0.1,2500.0,2700.0,2600.0,2019-01-19
+Kerala,Idukki,Banana,Adimali,Palayamthodan,Fruits,0.1,3500.0,3700.0,3600.0,2019-01-19
+Kerala,Ernakulam,Banana,Aluva,Poovan,Fruits,6.0,3500.0,5000.0,4300.0,2019-01-19
+Kerala,Ernakulam,Banana,Aluva,Palayamthodan,Fruits,6.0,2000.0,3000.0,2500.0,2019-01-19
+Kerala,Alappuzha,Banana,Aroor,Nendra Bale,Fruits,0.1,4500.0,4700.0,4600.0,2019-01-19
+Kerala,Alappuzha,Banana,Aroor,Robusta,Fruits,0.1,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Alappuzha,Banana,Aroor,Palayamthodan,Fruits,0.1,2800.0,3000.0,2900.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Chala,Banana - Ripe,Fruits,15.0,4400.0,4452.0,4423.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Chala,Red Banana,Fruits,15.0,4800.0,4851.0,4824.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Chala,Poovan,Fruits,15.0,3500.0,3554.0,3528.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Chala,Robusta,Fruits,15.0,2300.0,2358.0,2320.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Chala,Palayamthodan,Fruits,15.0,2500.0,2556.0,2521.0,2019-01-19
+Kerala,Thirssur,Banana,Chalakudy,Nendra Bale,Fruits,2.0,4600.0,4800.0,4700.0,2019-01-19
+Kerala,Thirssur,Banana,Chalakudy,Poovan,Fruits,2.0,4300.0,4500.0,4400.0,2019-01-19
+Kerala,Kollam,Banana,Chathanoor,Banana - Ripe,Fruits,2.4,4100.0,4500.0,4300.0,2019-01-19
+Kerala,Kollam,Banana,Chathanoor,Poovan,Fruits,2.4,4300.0,4700.0,4500.0,2019-01-19
+Kerala,Pathanamthitta,Banana,Ranniangadi,Nendra Bale,Fruits,3.8,3800.0,4000.0,3800.0,2019-01-19
+Kerala,Pathanamthitta,Banana,Ranniangadi,Palayamthodan,Fruits,3.8,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Kannur,Banana,Thalasserry,Other,Fruits,31.44,4030.0,4160.0,4050.0,2019-01-19
+Kerala,Kannur,Banana,Thalasserry,Other,Fruits,31.44,3230.0,3300.0,3250.0,2019-01-19
+Kerala,Kottayam,Banana,Thalayolaparambu,Banana - Ripe,Fruits,0.9,3500.0,4100.0,3800.0,2019-01-19
+Kerala,Kottayam,Banana,Thalayolaparambu,Poovan,Fruits,0.9,3200.0,3700.0,3500.0,2019-01-19
+Kerala,Kottayam,Banana,Thalayolaparambu,Robusta,Fruits,0.9,1500.0,2000.0,1800.0,2019-01-19
+Kerala,Kottayam,Banana,Thalayolaparambu,Palayamthodan,Fruits,0.9,1900.0,2200.0,2100.0,2019-01-19
+Kerala,Idukki,Banana,Thodupuzha,Nendra Bale,Fruits,10.0,3600.0,3800.0,3800.0,2019-01-19
+Kerala,Idukki,Banana,Thodupuzha,Poovan,Fruits,10.0,2600.0,2800.0,2800.0,2019-01-19
+Kerala,Idukki,Banana,Thodupuzha,Robusta,Fruits,10.0,1500.0,1700.0,1700.0,2019-01-19
+Kerala,Idukki,Banana,Thodupuzha,Palayamthodan,Fruits,10.0,1600.0,1800.0,1800.0,2019-01-19
+Kerala,Idukki,Banana,Thodupuzha,Other,Fruits,10.0,3200.0,3400.0,3400.0,2019-01-19
+Kerala,Ernakulam,Banana,Thrippunithura,Poovan,Fruits,0.3,3200.0,4200.0,3600.0,2019-01-19
+Kerala,Ernakulam,Banana,Thrippunithura,Palayamthodan,Fruits,0.3,2400.0,3400.0,2800.0,2019-01-19
+Kerala,Thirssur,Banana,Thrissur,Banana - Ripe,Fruits,10.0,4000.0,4500.0,4300.0,2019-01-19
+Kerala,Thirssur,Banana,Thrissur,Robusta,Fruits,10.0,2200.0,2300.0,2300.0,2019-01-19
+Kerala,Thirssur,Banana,Thrissur,Palayamthodan,Fruits,10.0,2400.0,2500.0,2500.0,2019-01-19
+Kerala,Palakad,Banana,Vadakkenchery,Nendra Bale,Fruits,0.65,3600.0,4000.0,3800.0,2019-01-19
+Kerala,Palakad,Banana,Vadakkenchery,Poovan,Fruits,0.65,3000.0,3500.0,3250.0,2019-01-19
+Kerala,Palakad,Banana,Vadakkenchery,Palayamthodan,Fruits,0.65,2200.0,2600.0,2400.0,2019-01-19
+Kerala,Ernakulam,Banana,Ernakulam,Palayamthodan,Fruits,4.5,2600.0,2900.0,2700.0,2019-01-19
+Kerala,Kottayam,Banana,Ettumanoor,Banana - Ripe,Fruits,2.8,3600.0,3800.0,3800.0,2019-01-19
+Kerala,Alappuzha,Banana,Harippad,Nendra Bale,Fruits,1.0,4500.0,5000.0,5000.0,2019-01-19
+Kerala,Kannur,Banana,Irikkur,Other,Fruits,0.8,4000.0,4000.0,4000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Banana,Kallachi,Nendra Bale,Fruits,0.4,4300.0,4600.0,4500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Banana,Kallachi,Rasakathai,Fruits,0.4,3000.0,3400.0,3200.0,2019-01-19
+Kerala,Kozhikode(Calicut),Banana,Kallachi,Palayamthodan,Fruits,0.4,2300.0,2700.0,2500.0,2019-01-19
+Kerala,Kasargod,Banana,Kanjangadu,Other,Fruits,3.0,4500.0,5500.0,5000.0,2019-01-19
+Kerala,Kasargod,Banana,Kanjangadu,Other,Fruits,3.0,3400.0,4500.0,4000.0,2019-01-19
+Kerala,Kottayam,Banana,Kanjirappally,Banana - Ripe,Fruits,1.25,4000.0,4500.0,4300.0,2019-01-19
+Kerala,Kasargod,Banana,Kasargod,Medium,Fruits,4.0,2200.0,2400.0,2300.0,2019-01-19
+Kerala,Kasargod,Banana,Kasargod,Nendra Bale,Fruits,4.0,3000.0,3100.0,3050.0,2019-01-19
+Kerala,Alappuzha,Banana,Kayamkulam,Nendra Bale,Fruits,4.0,4100.0,4300.0,4200.0,2019-01-19
+Kerala,Alappuzha,Banana,Kayamkulam,Palayamthodan,Fruits,4.0,2100.0,2300.0,2200.0,2019-01-19
+Kerala,Palakad,Banana,Kollengode,Nendra Bale,Fruits,5.0,3800.0,4060.0,4000.0,2019-01-19
+Kerala,Palakad,Banana,Kollengode,Poovan,Fruits,5.0,3800.0,4060.0,4000.0,2019-01-19
+Kerala,Palakad,Banana,Kollengode,Palayamthodan,Fruits,5.0,2800.0,3060.0,3000.0,2019-01-19
+Kerala,Ernakulam,Banana,Kothamangalam,Poovan,Fruits,8.0,3200.0,3800.0,3400.0,2019-01-19
+Kerala,Ernakulam,Banana,Kothamangalam,Palayamthodan,Fruits,8.0,2500.0,3000.0,2700.0,2019-01-19
+Kerala,Malappuram,Banana,Kottakkal,Palayamthodan,Fruits,3.0,2650.0,2750.0,2700.0,2019-01-19
+Kerala,Kottayam,Banana,Kottayam,Banana - Ripe,Fruits,10.0,4300.0,4600.0,4500.0,2019-01-19
+Kerala,Kottayam,Banana,Kottayam,Poovan,Fruits,10.0,2800.0,3100.0,3000.0,2019-01-19
+Kerala,Kottayam,Banana,Kottayam,Palayamthodan,Fruits,10.0,1800.0,2100.0,2000.0,2019-01-19
+Kerala,Kannur,Banana,Kuthuparambu,Other,Fruits,3.2,3600.0,4400.0,4000.0,2019-01-19
+Kerala,Pathanamthitta,Banana,Kuttoor,Nendra Bale,Fruits,3.0,4000.0,4400.0,4200.0,2019-01-19
+Kerala,Pathanamthitta,Banana,Kuttoor,Palayamthodan,Fruits,3.0,1700.0,2000.0,1800.0,2019-01-19
+Kerala,Alappuzha,Banana,Madhavapuram,Nendra Bale,Fruits,4.0,5800.0,6400.0,6000.0,2019-01-19
+Kerala,Alappuzha,Banana,Madhavapuram,Red Banana,Fruits,4.0,3500.0,4100.0,3800.0,2019-01-19
+Kerala,Alappuzha,Banana,Madhavapuram,Poovan,Fruits,4.0,3800.0,4400.0,4200.0,2019-01-19
+Kerala,Alappuzha,Banana,Madhavapuram,Robusta,Fruits,4.0,1800.0,2100.0,2000.0,2019-01-19
+Kerala,Alappuzha,Banana,Madhavapuram,Palayamthodan,Fruits,4.0,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Malappuram,Banana,Manjeri,Other,Fruits,5.0,3850.0,3950.0,3900.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Nendra Bale,Fruits,5.92,3800.0,4000.0,3900.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Nendra Bale,Fruits,5.92,3000.0,3500.0,3200.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Nendra Bale,Fruits,5.92,2300.0,2800.0,2600.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Red Banana,Fruits,5.92,5300.0,5500.0,5400.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Red Banana,Fruits,5.92,4800.0,5200.0,5000.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Red Banana,Fruits,5.92,4000.0,4700.0,4500.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Poovan,Fruits,5.92,3500.0,3700.0,3600.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Poovan,Fruits,5.92,3200.0,3400.0,3300.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Poovan,Fruits,5.92,2500.0,3000.0,2800.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Robusta,Fruits,5.92,1400.0,1600.0,1500.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Robusta,Fruits,5.92,1100.0,1300.0,1200.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Robusta,Fruits,5.92,800.0,1000.0,900.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Palayamthodan,Fruits,5.92,1500.0,1700.0,1600.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Palayamthodan,Fruits,5.92,1200.0,1400.0,1300.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana,Maranelloor,Palayamthodan,Fruits,5.92,900.0,1100.0,1000.0,2019-01-19
+Kerala,Ernakulam,Banana,Moovattupuzha,Poovan,Fruits,53.0,2600.0,2900.0,2750.0,2019-01-19
+Kerala,Ernakulam,Banana,Moovattupuzha,Palayamthodan,Fruits,53.0,2100.0,2350.0,2250.0,2019-01-19
+Kerala,Ernakulam,Banana,Moovattupuzha,Other,Fruits,53.0,4150.0,4400.0,4250.0,2019-01-19
+Kerala,Kozhikode(Calicut),Banana,Mukkom,Other,Fruits,5.0,3000.0,3400.0,3200.0,2019-01-19
+Kerala,Kasargod,Banana,Neeleswaram,Other,Fruits,0.8,4600.0,5000.0,4800.0,2019-01-19
+Kerala,Pathanamthitta,Banana,Omalloor,Nendra Bale,Fruits,0.2,3900.0,4000.0,4000.0,2019-01-19
+Kerala,Pathanamthitta,Banana,Omalloor,Robusta,Fruits,0.2,1400.0,1500.0,1500.0,2019-01-19
+Kerala,Pathanamthitta,Banana,Omalloor,Palayamthodan,Fruits,0.2,1400.0,1500.0,1500.0,2019-01-19
+Kerala,Palakad,Banana,Palakkad,Nendra Bale,Fruits,5.0,4200.0,5200.0,4800.0,2019-01-19
+Kerala,Palakad,Banana,Palakkad,Poovan,Fruits,5.0,4500.0,5500.0,5100.0,2019-01-19
+Kerala,Palakad,Banana,Palakkad,Palayamthodan,Fruits,5.0,3200.0,4000.0,3700.0,2019-01-19
+Kerala,Kottayam,Banana,Pampady,Banana - Ripe,Fruits,10.0,4000.0,4400.0,4200.0,2019-01-19
+Kerala,Kottayam,Banana,Pampady,Robusta,Fruits,10.0,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Kottayam,Banana,Pampady,Palayamthodan,Fruits,10.0,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Palakad,Banana,Pattambi,Nendra Bale,Fruits,4.0,4000.0,5000.0,4800.0,2019-01-19
+Kerala,Palakad,Banana,Pattambi,Palayamthodan,Fruits,4.0,2600.0,3500.0,3250.0,2019-01-19
+Kerala,Kannur,Banana,Payyannur,Other,Fruits,36.0,3500.0,3700.0,3600.0,2019-01-19
+Kerala,Kannur,Banana,Payyannur,Other,Fruits,36.0,3800.0,4000.0,3900.0,2019-01-19
+Kerala,Kannur,Banana,Payyannur,Other,Fruits,36.0,4100.0,4300.0,4200.0,2019-01-19
+Kerala,Malappuram,Banana,Perinthalmanna,Other,Fruits,2.9,4200.0,4800.0,4500.0,2019-01-19
+Kerala,Wayanad,Banana,Pulpally,Other,Fruits,2.0,2500.0,2700.0,2600.0,2019-01-19
+Kerala,Alappuzha,Banana - Green,Alappuzha,Other,Vegetables,4.0,1950.0,2050.0,2000.0,2019-01-19
+Kerala,Ernakulam,Banana - Green,Aluva,Banana - Green,Vegetables,21.0,4400.0,5500.0,5000.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana - Green,Anyara(EEC),Banana - Green,Vegetables,0.45,4200.0,4800.0,4500.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana - Green,Aralamoodu,Banana - Green,Vegetables,15.0,3500.0,4000.0,4000.0,2019-01-19
+Kerala,Alappuzha,Banana - Green,Aroor,Banana - Green,Vegetables,0.1,4300.0,4500.0,4400.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana - Green,Chala,Other,Vegetables,3.0,4700.0,4750.0,4726.0,2019-01-19
+Kerala,Kollam,Banana - Green,Chathanoor,Other,Vegetables,1.2,4000.0,4400.0,4200.0,2019-01-19
+Kerala,Thirssur,Banana - Green,Chelakkara,Other,Vegetables,0.28,3500.0,3800.0,3600.0,2019-01-19
+Kerala,Ernakulam,Banana - Green,Ernakulam,Banana - Green,Vegetables,5.0,4200.0,4600.0,4600.0,2019-01-19
+Kerala,Kottayam,Banana - Green,Ettumanoor,Banana - Green,Vegetables,2.6,2000.0,2200.0,2100.0,2019-01-19
+Kerala,Alappuzha,Banana - Green,Harippad,Other,Vegetables,0.5,2500.0,3000.0,2500.0,2019-01-19
+Kerala,Wayanad,Banana - Green,Kalpetta,Other,Vegetables,1.8,2400.0,2500.0,2500.0,2019-01-19
+Kerala,Kasargod,Banana - Green,Kanjangadu,Banana - Green,Vegetables,3.0,3000.0,4200.0,3600.0,2019-01-19
+Kerala,Kottayam,Banana - Green,Kanjirappally,Banana - Green,Vegetables,1.25,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Kannur,Banana - Green,Kannur,Other,Vegetables,8.0,3700.0,3800.0,3750.0,2019-01-19
+Kerala,Alappuzha,Banana - Green,Kayamkulam,Other,Vegetables,1.0,1400.0,1600.0,1500.0,2019-01-19
+Kerala,Ernakulam,Banana - Green,Keezhampara,Banana - Green,Vegetables,7.27,4000.0,4200.0,4100.0,2019-01-19
+Kerala,Malappuram,Banana - Green,Kondotty,Other,Vegetables,0.8,3000.0,3200.0,3100.0,2019-01-19
+Kerala,Ernakulam,Banana - Green,Kothamangalam,Other,Vegetables,4.0,4400.0,4800.0,4500.0,2019-01-19
+Kerala,Malappuram,Banana - Green,Kottakkal,Other,Vegetables,3.0,2500.0,2600.0,2550.0,2019-01-19
+Kerala,Kasargod,Banana - Green,Manjeswaram,Other,Vegetables,1.5,4500.0,5000.0,4750.0,2019-01-19
+Kerala,Ernakulam,Banana - Green,Moovattupuzha,Banana - Green,Vegetables,2.0,2650.0,2900.0,2750.0,2019-01-19
+Kerala,Kozhikode(Calicut),Banana - Green,Mukkom,Banana - Green,Vegetables,3.0,1800.0,2200.0,2000.0,2019-01-19
+Kerala,Idukki,Banana - Green,Munnar,Other,Vegetables,0.3,3500.0,4000.0,3500.0,2019-01-19
+Kerala,Kasargod,Banana - Green,Neeleswaram,Other,Vegetables,0.8,3800.0,4200.0,4000.0,2019-01-19
+Kerala,Thiruvananthapuram,Banana - Green,Neyyatinkara,Banana - Green,Vegetables,0.2,4500.0,5000.0,4700.0,2019-01-19
+Kerala,Kozhikode(Calicut),Banana - Green,Palayam,Other,Vegetables,50.0,3500.0,3700.0,3600.0,2019-01-19
+Kerala,Kottayam,Banana - Green,Pampady,Banana - Green,Vegetables,10.0,4000.0,4400.0,4200.0,2019-01-19
+Kerala,Malappuram,Banana - Green,Parappanangadi,Other,Vegetables,2.0,2100.0,2350.0,2200.0,2019-01-19
+Kerala,Malappuram,Banana - Green,Perinthalmanna,Banana - Green,Vegetables,2.1,3700.0,4300.0,4000.0,2019-01-19
+Kerala,Ernakulam,Banana - Green,Piravam,Other,Vegetables,0.06,3000.0,4000.0,3500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Banana - Green,Quilandy,Other,Vegetables,2.3,3500.0,3600.0,3600.0,2019-01-19
+Kerala,Kottayam,Banana - Green,Thalayolaparambu,Banana - Green,Vegetables,0.3,1800.0,2300.0,2000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Banana - Green,Thamarassery,Banana - Green,Vegetables,0.6,3500.0,4500.0,3800.0,2019-01-19
+Kerala,Malappuram,Banana - Green,Thirurrangadi,Other,Vegetables,4.0,2400.0,2750.0,2650.0,2019-01-19
+Kerala,Idukki,Banana - Green,Thodupuzha,Other,Vegetables,0.1,2800.0,3000.0,3000.0,2019-01-19
+Kerala,Ernakulam,Banana - Green,Thrippunithura,Banana - Green,Vegetables,4.0,4400.0,5200.0,4800.0,2019-01-19
+Kerala,Thirssur,Banana - Green,Thrissur,Banana - Green,Vegetables,12.0,3800.0,4000.0,3900.0,2019-01-19
+Kerala,Malappuram,Beans,Kottakkal,Other,Pulses,0.9,3500.0,3600.0,3550.0,2019-01-19
+Kerala,Idukki,Beans,Munnar,Beans (Whole),Pulses,0.6,4500.0,5000.0,4500.0,2019-01-19
+Kerala,Alappuzha,Beetroot,Alappuzha,Other,Vegetables,0.5,3550.0,3650.0,3600.0,2019-01-19
+Kerala,Thiruvananthapuram,Beetroot,Aralamoodu,Beetroot,Vegetables,1.0,4000.0,4000.0,4000.0,2019-01-19
+Kerala,Alappuzha,Beetroot,Aroor,Other,Vegetables,0.1,3500.0,3700.0,3600.0,2019-01-19
+Kerala,Thiruvananthapuram,Beetroot,Chala,Other,Vegetables,3.0,3700.0,3752.0,3728.0,2019-01-19
+Kerala,Thirssur,Beetroot,Chalakudy,Other,Vegetables,0.3,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Thirssur,Beetroot,Chelakkara,Other,Vegetables,0.2,1800.0,2000.0,1900.0,2019-01-19
+Kerala,Ernakulam,Beetroot,Ernakulam,Beetroot,Vegetables,0.35,3600.0,3800.0,3800.0,2019-01-19
+Kerala,Kottayam,Beetroot,Ettumanoor,Other,Vegetables,2.5,2400.0,2600.0,2500.0,2019-01-19
+Kerala,Alappuzha,Beetroot,Harippad,Other,Vegetables,0.5,3500.0,4000.0,4000.0,2019-01-19
+Kerala,Alappuzha,Bengal Gram(Gram)(Whole),Alappuzha,Other,Pulses,2.0,6000.0,6100.0,6050.0,2019-01-19
+Kerala,Palakad,Bengal Gram(Gram)(Whole),Kollengode,Average (Whole),Pulses,0.1,6490.0,6560.0,6500.0,2019-01-19
+Kerala,Malappuram,Bengal Gram(Gram)(Whole),Manjeri,Bold,Pulses,4.0,6900.0,7000.0,6950.0,2019-01-19
+Kerala,Palakad,Bengal Gram(Gram)(Whole),Palakkad,Average (Whole),Pulses,1.0,6500.0,7000.0,6800.0,2019-01-19
+Kerala,Palakad,Bengal Gram(Gram)(Whole),Vadakkenchery,Average (Whole),Pulses,0.37,7000.0,7500.0,7250.0,2019-01-19
+Kerala,Palakad,Bengal Gram(Gram)(Whole),Vadakkenchery,Other,Pulses,0.37,8000.0,8500.0,8250.0,2019-01-19
+Kerala,Kozhikode(Calicut),Beetroot,Kallachi,Beetroot,Vegetables,0.4,3800.0,4200.0,4000.0,2019-01-19
+Kerala,Kottayam,Beetroot,Kanjirappally,Beetroot,Vegetables,1.25,3500.0,4000.0,3800.0,2019-01-19
+Kerala,Alappuzha,Beetroot,Kayamkulam,Other,Vegetables,1.0,2100.0,2300.0,2200.0,2019-01-19
+Kerala,Palakad,Beetroot,Kollengode,Other,Vegetables,0.3,2200.0,2450.0,2400.0,2019-01-19
+Kerala,Malappuram,Beetroot,Kondotty,Other,Vegetables,0.25,2200.0,2400.0,2300.0,2019-01-19
+Kerala,Alappuzha,Beetroot,Madhavapuram,Other,Vegetables,1.5,3200.0,3500.0,3400.0,2019-01-19
+Kerala,Malappuram,Beetroot,Manjeri,Other,Vegetables,4.0,2300.0,2400.0,2350.0,2019-01-19
+Kerala,Kasargod,Beetroot,Manjeswaram,Beetroot,Vegetables,1.0,2200.0,3000.0,2600.0,2019-01-19
+Kerala,Ernakulam,Beetroot,Moovattupuzha,Other,Vegetables,0.8,2750.0,3000.0,2900.0,2019-01-19
+Kerala,Kozhikode(Calicut),Beetroot,Mukkom,Beetroot,Vegetables,0.5,2000.0,2400.0,2200.0,2019-01-19
+Kerala,Idukki,Beetroot,Munnar,Other,Vegetables,0.3,2800.0,3500.0,3200.0,2019-01-19
+Kerala,Kasargod,Beetroot,Neeleswaram,Other,Vegetables,0.7,3000.0,3400.0,3200.0,2019-01-19
+Kerala,Thiruvananthapuram,Beetroot,Neyyatinkara,Beetroot,Vegetables,0.2,1600.0,2000.0,1800.0,2019-01-19
+Kerala,Palakad,Beetroot,Palakkad,Beetroot,Vegetables,1.0,3000.0,3500.0,3300.0,2019-01-19
+Kerala,Kozhikode(Calicut),Beetroot,Palayam,Other,Vegetables,10.0,2700.0,2900.0,2800.0,2019-01-19
+Kerala,Malappuram,Beetroot,Parappanangadi,Other,Vegetables,0.5,2500.0,2750.0,2650.0,2019-01-19
+Kerala,Palakad,Beetroot,Pattambi,Other,Vegetables,1.0,2800.0,4000.0,3500.0,2019-01-19
+Kerala,Malappuram,Beetroot,Perinthalmanna,Beetroot,Vegetables,2.4,3600.0,4400.0,4000.0,2019-01-19
+Kerala,Ernakulam,Beetroot,Piravam,Other,Vegetables,0.05,2000.0,3000.0,2500.0,2019-01-19
+Kerala,Kozhikode(Calicut),Beetroot,Quilandy,Other,Vegetables,0.5,2700.0,3000.0,2800.0,2019-01-19
+Kerala,Kottayam,Beetroot,Thalayolaparambu,Beetroot,Vegetables,0.5,2800.0,3200.0,3000.0,2019-01-19
+Kerala,Kozhikode(Calicut),Beetroot,Thamarassery,Other,Vegetables,0.25,1900.0,3500.0,2400.0,2019-01-19
+Kerala,Malappuram,Beetroot,Thirurrangadi,Other,Vegetables,0.5,2350.0,2650.0,2500.0,2019-01-19
+Kerala,Idukki,Beetroot,Thodupuzha,Other,Vegetables,1.5,1800.0,2000.0,2000.0,2019-01-19
+Kerala,Ernakulam,Beetroot,Thrippunithura,Beetroot,Vegetables,0.5,3600.0,4600.0,4000.0,2019-01-19
+Kerala,Thirssur,Beetroot,Thrissur,Beetroot,Vegetables,10.0,2500.0,2600.0,2600.0,2019-01-19
+Kerala,Palakad,Beetroot,Vadakkenchery,Other,Vegetables,0.22,2000.0,2500.0,2250.0,2019-01-19

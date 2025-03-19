@@ -1,0 +1,37 @@
+State Name,District Name,Commodity,Market Name,Variety,Group,Arrivals Tonnes,Min Price Rs_per_Quintal,Max Price Rs_per_Quintal,Modal Price Rs_per_Quintal,Reported Date
+Tamil Nadu,Ramanathapuram,Dry Chillies,Kamuthi,Red,Spices,0.1,4800.0,5200.0,5000.0,2019-01-19
+Tamil Nadu,Ramanathapuram,Dry Chillies,Rajasingamangalam,Red,Spices,0.1,7000.0,9000.0,8000.0,2019-01-19
+Tamil Nadu,Coimbatore,Groundnut,Sevur,DMV-7,Oil Seeds,0.06,4950.0,5320.0,5050.0,2019-01-19
+Tamil Nadu,Erode,Gur(Jaggery),Kavunthapadi,NO 2,Other,15.0,3333.0,3346.0,3346.0,2019-01-19
+Tamil Nadu,Coimbatore,Maize,Annur,Other,Cereals,2.0,1600.0,1800.0,1700.0,2019-01-19
+Tamil Nadu,Salem,Maize,Gangavalli,Other,Cereals,15.5,1820.0,1860.0,1840.0,2019-01-19
+Tamil Nadu,Coimbatore,Maize,Pethappampatti,Yellow,Cereals,0.01,1750.0,1850.0,1800.0,2019-01-19
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),Chengalpattu,Other,Cereals,1.0,1385.0,1536.0,1461.0,2019-01-19
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),Kanchipuram,ADT 37,Cereals,0.01,1250.0,1375.0,1315.0,2019-01-19
+Tamil Nadu,Nagapattinam,Paddy(Dhan)(Common),Kilvelur,B P T,Cereals,0.24,1400.0,2100.0,1760.0,2019-01-19
+Tamil Nadu,Thiruvarur,Paddy(Dhan)(Common),Koradacheri,B P T,Cereals,0.1,2000.0,2200.0,2100.0,2019-01-19
+Tamil Nadu,Thiruvarur,Paddy(Dhan)(Common),Kudavasal,B P T,Cereals,0.1,2000.0,2200.0,2100.0,2019-01-19
+Tamil Nadu,Nagapattinam,Paddy(Dhan)(Common),Kuttulam,B P T,Cereals,0.87,1400.0,2100.0,1760.0,2019-01-19
+Tamil Nadu,Nagapattinam,Paddy(Dhan)(Common),Mailaduthurai,B P T,Cereals,0.36,1400.0,2100.0,1760.0,2019-01-19
+Tamil Nadu,Thiruvarur,Paddy(Dhan)(Common),Mannargudi,B P T,Cereals,0.1,2000.0,2200.0,2100.0,2019-01-19
+Tamil Nadu,Nagapattinam,Paddy(Dhan)(Common),Nagapattinam,B P T,Cereals,0.46,1400.0,2100.0,1760.0,2019-01-19
+Tamil Nadu,Thanjavur,Paddy(Dhan)(Common),Orathanadu,B P T,Cereals,5.0,1780.0,1850.0,1800.0,2019-01-19
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),Pallipattu,Other,Cereals,1.0,1385.0,1536.0,1461.0,2019-01-19
+Tamil Nadu,Thiruvarur,Paddy(Dhan)(Common),Poonthottam,B P T,Cereals,0.1,2000.0,2200.0,2100.0,2019-01-19
+Tamil Nadu,Ramanathapuram,Paddy(Dhan)(Common),Rajasingamangalam,ADT 36,Cereals,0.1,1700.0,1800.0,1750.0,2019-01-19
+Tamil Nadu,Nagapattinam,Paddy(Dhan)(Common),Sirkali,B P T,Cereals,0.46,1400.0,2100.0,1760.0,2019-01-19
+Tamil Nadu,Ramanathapuram,Paddy(Dhan)(Common),Sivagangai,ADT 36,Cereals,11.0,1780.0,1880.0,1830.0,2019-01-19
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),Sunguvarchatram,Other,Cereals,1.0,1385.0,1536.0,1461.0,2019-01-19
+Tamil Nadu,Nagapattinam,Paddy(Dhan)(Common),Thirupoondi,B P T,Cereals,0.62,1400.0,2100.0,1760.0,2019-01-19
+Tamil Nadu,Thiruvarur,Paddy(Dhan)(Common),Thiruvarur,B P T,Cereals,0.1,2000.0,2200.0,2100.0,2019-01-19
+Tamil Nadu,Thiruvarur,Paddy(Dhan)(Common),Tiruthuraipoondi,B P T,Cereals,0.1,2000.0,2200.0,2100.0,2019-01-19
+Tamil Nadu,Nagercoil (Kannyiakumari),Paddy(Dhan)(Common),Vadaseri,AST 16,Cereals,2.6,1600.0,1800.0,1700.0,2019-01-19
+Tamil Nadu,Thiruvarur,Paddy(Dhan)(Common),Vaduvur,B P T,Cereals,0.1,2000.0,2200.0,2100.0,2019-01-19
+Tamil Nadu,Thiruvarur,Paddy(Dhan)(Common),Valangaiman,B P T,Cereals,0.1,2000.0,2200.0,2100.0,2019-01-19
+Tamil Nadu,Nagapattinam,Paddy(Dhan)(Common),Vedaranyam,B P T,Cereals,0.26,1400.0,2100.0,1760.0,2019-01-19
+Tamil Nadu,Nagercoil (Kannyiakumari),Rubber,Kulasekaram,Other,Other,1.0,8000.0,12100.0,10500.0,2019-01-19
+Tamil Nadu,Erode,"Sesamum(Sesame,Gingelly,Til)",Mylampadi,White,Oil Seeds,0.3,10329.0,12569.0,11419.0,2019-01-19
+Tamil Nadu,Erode,"Sesamum(Sesame,Gingelly,Til)",Mylampadi,Black,Oil Seeds,0.3,12064.0,12064.0,12064.0,2019-01-19
+Tamil Nadu,Coimbatore,Turmeric,Coimbatore,Finger,Spices,0.1,6400.0,7950.0,7200.0,2019-01-19
+Tamil Nadu,Namakkal,Turmeric,Namagiripettai,Finger,Spices,0.1,6270.0,7790.0,7030.0,2019-01-19
+Tamil Nadu,Namakkal,Turmeric,Namagiripettai,Bulb,Spices,0.1,5530.0,6090.0,5810.0,2019-01-19
